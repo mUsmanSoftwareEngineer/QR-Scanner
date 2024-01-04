@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    >
+
+    <RelativeLayout
+        android:id="@+id/top_relative"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/whiteLight">
+
+        <TextView
+            android:id="@+id/removeADS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="@font/roboto_regular"
+            android:padding="5dp"
+            android:gravity="center"
+            android:visibility="gone"
+            android:text="@string/remove_ads"
+            android:textColor="@color/tt_black"
+            android:textSize="@dimen/_12sdp" />
+
+        <RelativeLayout
+            android:id="@+id/ads_relative"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/removeADS">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:fontFamily="@font/roboto_regular"
+                android:text="@string/adsTxt"
+                android:textColor="@color/tt_black"
+                android:textSize="18sp" />
+
+        </RelativeLayout>
+
+        <FrameLayout
+            android:id="@+id/banner_adsview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ads_relative"
+             />
+
+
+    </RelativeLayout>
+
+
+
+    <RelativeLayout
+        android:id="@+id/top"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@id/top_relative"
+        android:background="@color/white"
+        android:elevation="4dp"
+        android:visibility="gone"
+        android:paddingStart="0dp"
+        android:paddingTop="5dp"
+        android:paddingEnd="10dp"
+        android:paddingBottom="5dp">
+
+        <ImageView
+            android:id="@+id/backButton"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="15dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:scaleType="fitXY"
+            android:src="@drawable/back_scanner"
+            android:visibility="gone"
+            app:tint="@color/tt_black"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/fragmentName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="15dp"
+            android:layout_toEndOf="@id/backButton"
+            android:fontFamily="@font/roboto_regular"
+            android:includeFontPadding="false"
+            android:textStyle="bold"
+            android:text="@string/fragmentName"
+            android:textColor="@color/tt_black"
+            android:textSize="16sp"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/remove"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="15dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="34dp"
+                android:layout_height="34dp"
+                android:layout_marginEnd="5dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/crown"
+                tools:ignore="ContentDescription" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:fontFamily="@font/roboto_regular"
+                android:text="@string/premium"
+                android:textAllCaps="true"
+                android:textColor="@color/tt_black"
+                android:textSize="12sp"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerInParent="true">
+
+
+            <ImageView
+                android:id="@+id/infoMain"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginEnd="10dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:scaleType="centerCrop"
+                android:src="@drawable/info"
+                app:tint="@color/tt_black"
+                tools:ignore="ContentDescription" />
+
+            <ImageView
+                android:id="@+id/settingsMain"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_toEndOf="@+id/infoMain"
+                android:clickable="true"
+                android:focusable="true"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:scaleType="centerCrop"
+                android:src="@drawable/privacy_scanner"
+                app:tint="@color/tt_black"
+                tools:ignore="ContentDescription" />
+
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/navigation"
+        android:layout_below="@+id/top_relative"
+
+    />
+
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="true"
+        android:foreground="?android:attr/selectableItemBackground"
+        app:itemBackground="@color/white"
+        app:itemIconTint="@drawable/bottom_navigation_item_background_colors"
+        app:itemTextColor="@drawable/bottom_navigation_item_background_colors"
+        app:menu="@menu/bottom_navigation" />
+
+
+</RelativeLayout>
+
+
+    <!--i know well what to do with it-->
+
+    <!--        <RelativeLayout-->
+    <!--            android:layout_width="wrap_content"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:layout_alignParentEnd="true"-->
+    <!--            android:layout_centerInParent="true">-->
+
+    <!--            <ImageView-->
+    <!--                android:id="@+id/remove"-->
+    <!--                android:layout_width="24dp"-->
+    <!--                android:layout_height="24dp"-->
+    <!--                android:layout_marginEnd="15dp"-->
+    <!--                android:clickable="true"-->
+    <!--                android:focusable="true"-->
+    <!--                android:scaleType="fitXY"-->
+    <!--                android:src="@drawable/no_ad"-->
+    <!--                tools:ignore="ContentDescription" />-->
+
+    <!--            <ImageView-->
+    <!--                android:id="@+id/infoMain"-->
+    <!--                android:layout_width="24dp"-->
+    <!--                android:layout_height="24dp"-->
+    <!--                android:layout_marginEnd="10dp"-->
+    <!--                android:layout_toEndOf="@+id/remove"-->
+    <!--                android:clickable="true"-->
+    <!--                android:focusable="true"-->
+    <!--                android:scaleType="centerCrop"-->
+    <!--                android:src="@drawable/ic_info_after_splash_icon" />-->
+
+    <!--            <ImageView-->
+    <!--                android:id="@+id/settingsMain"-->
+    <!--                android:layout_width="24dp"-->
+    <!--                android:layout_height="24dp"-->
+    <!--                android:layout_toEndOf="@+id/infoMain"-->
+    <!--                android:clickable="true"-->
+    <!--                android:focusable="false"-->
+    <!--                android:foreground="?android:attr/selectableItemBackground"-->
+    <!--                android:scaleType="fitXY"-->
+    <!--                android:src="@drawable/ic_privacy_icon"-->
+
+    <!--                />-->
+
+
+    <!--        </RelativeLayout>-->
+
+    <!--    <androidx.viewpager.widget.ViewPager-->
+    <!--        android:id="@+id/viewpager"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_above="@+id/navigation"-->
+    <!--        android:layout_below="@+id/top">-->
+
+    <!--    </androidx.viewpager.widget.ViewPager>-->
+
+    <!--    <fragment-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="match_parent"-->
+    <!--        android:id="@+id/mainFragment"-->
+    <!--        android:name="app.app.qrcodegenerator.fragment.AfterSplash"-->
+    <!--        />-->
+
+    <!--    <RelativeLayout-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_centerHorizontal="true"-->
+    <!--        android:visibility="visible"-->
+    <!--        android:id="@+id/banner_ad"-->
+    <!--        >-->
+
+    <!--        <com.google.android.gms.ads.AdView-->
+    <!--            xmlns:ads="http://schemas.android.com/apk/res-auto"-->
+    <!--            android:id="@+id/adViewMain"-->
+    <!--            android:layout_width="wrap_content"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:layout_centerHorizontal="true"-->
+    <!--            ads:adSize="BANNER"-->
+    <!--            ads:adUnitId="@string/banner_ad_unit_id">-->
+    <!--        </com.google.android.gms.ads.AdView>-->
+
+    <!--    </RelativeLayout>-->
+
+    <!--    <FrameLayout-->
+    <!--        android:id="@+id/linear_layout_adsview"-->
+    <!--        android:layout_alignParentTop="true"-->
+    <!--        android:background="@color/colorMainBg"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content">-->
+
+    <!--    </FrameLayout>-->
+
+    <!--    <RelativeLayout-->
+    <!--        android:background="@color/colorMainBg"-->
+    <!--        android:id="@+id/banner_relative"-->
+    <!--        android:visibility="visible"-->
+    <!--        android:layout_alignParentTop="true"-->
+    <!--        android:layout_centerHorizontal="true"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content">-->
+
+    <!--        <RelativeLayout-->
+    <!--            android:id="@+id/add_banner_loading"-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="wrap_content">-->
+
+    <!--            <TextView-->
+    <!--                android:id="@+id/load_ad"-->
+    <!--                android:layout_width="wrap_content"-->
+    <!--                android:layout_height="wrap_content"-->
+    <!--                android:text="@string/loading_ad"-->
+    <!--                android:layout_marginTop="@dimen/_5sdp"-->
+    <!--                android:layout_centerHorizontal="true"-->
+    <!--                android:fontFamily="@font/product_sans_bold"-->
+    <!--                android:textColor="@color/whiteLight"-->
+    <!--                android:textSize="16sp"-->
+    <!--                />-->
+
+    <!--            <com.eyalbira.loadingdots.LoadingDots-->
+    <!--                xmlns:app="http://schemas.android.com/apk/res-auto"-->
+    <!--                android:layout_width="wrap_content"-->
+    <!--                android:layout_height="wrap_content"-->
+    <!--                android:layout_below="@+id/load_ad"-->
+    <!--                android:layout_centerHorizontal="true"-->
+    <!--                app:LoadingDots_auto_play="true"-->
+    <!--                app:LoadingDots_dots_color="@color/whiteLight"-->
+    <!--                app:LoadingDots_dots_count="4"-->
+    <!--                app:LoadingDots_dots_size="15dp"-->
+    <!--                android:layout_marginBottom="5dp"-->
+    <!--                app:LoadingDots_dots_space="10dp"-->
+    <!--                app:LoadingDots_loop_duration="800"-->
+    <!--                app:LoadingDots_loop_start_delay="100"-->
+    <!--                app:LoadingDots_jump_duration="200"-->
+    <!--                app:LoadingDots_jump_height="4dp"/>-->
+
+    <!--        </RelativeLayout>-->
+
+    <!--        <com.startapp.sdk.ads.banner.Banner-->
+    <!--            android:id="@+id/start_up_banner"-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="wrap_content" />-->
+
+    <!--    </RelativeLayout>-->
+
+    <!--        <com.facebook.shimmer.ShimmerFrameLayout-->
+    <!--            android:id="@+id/shimmer_view_container"-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="50dp"-->
+    <!--            android:layout_gravity="center"-->
+    <!--            android:orientation="vertical"-->
+    <!--            app:shimmer_auto_start="true"-->
+    <!--            app:shimmer_duration="1000">-->
+
+
+    <!--            <LinearLayout-->
+    <!--                android:layout_width="match_parent"-->
+    <!--                android:layout_height="50dp"-->
+    <!--                android:background="#dddddd"-->
+    <!--                >-->
+
+    <!--                <View-->
+    <!--                    android:layout_width="match_parent"-->
+    <!--                    android:layout_height="50dp"-->
+    <!--                    android:layout_gravity="center"-->
+    <!--                    />-->
+
+
+    <!--            </LinearLayout>-->
+
+    <!--        </com.facebook.shimmer.ShimmerFrameLayout>-->

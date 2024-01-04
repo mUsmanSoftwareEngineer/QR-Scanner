@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-an\\values-an.xml",
+            "map": [
+                {
+                    "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\values-an\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,4,7,5,8,9,6",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "108,57,159,326,212,377,435,273",
+                        "endColumns": "49,49,51,49,59,56,43,51",
+                        "endOffsets": "153,102,206,371,267,429,474,320"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,155,207,257,317,374,418",
+                        "endColumns": "49,49,51,49,59,56,43,51",
+                        "endOffsets": "100,150,202,252,312,369,413,465"
+                    }
+                }
+            ]
+        }
+    ]
+}

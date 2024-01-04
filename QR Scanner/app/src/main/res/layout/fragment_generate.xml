@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:descendantFocusability="afterDescendants">
+
+            <TextView
+                android:id="@+id/generate_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/fab"
+                android:fontFamily="sans-serif-medium"
+                android:gravity="center"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="@string/generate_from_source"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_18sdp"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/createQR"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/roboto_regular"
+                android:paddingStart="20dp"
+                android:paddingTop="5dp"
+                android:paddingEnd="0dp"
+                android:text="@string/createQR"
+                android:textColor="@color/tt_black"
+                android:textSize="18sp" />
+
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/generate_recycler"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/createQR"
+                android:layout_marginStart="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginRight="5dp" />
+
+
+            <TextView
+                android:id="@+id/barcode"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/generate_recycler"
+                android:fontFamily="@font/roboto_regular"
+                android:paddingStart="20dp"
+                android:paddingTop="10dp"
+                android:paddingEnd="0dp"
+                android:text="@string/barcode"
+                android:textColor="@color/tt_black"
+                android:textSize="18sp" />
+
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/barcode_recycler"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/barcode"
+                android:layout_marginStart="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginRight="5dp" />
+
+        </RelativeLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+
+</RelativeLayout>

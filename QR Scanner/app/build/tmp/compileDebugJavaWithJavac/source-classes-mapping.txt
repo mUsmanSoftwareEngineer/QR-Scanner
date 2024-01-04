@@ -1,0 +1,445 @@
+scanner/app/scan/qrcode/reader/activity/HelpActivity.java
+ scanner.app.scan.qrcode.reader.activity.HelpActivity
+ scanner.app.scan.qrcode.reader.activity.HelpActivity$1
+ scanner.app.scan.qrcode.reader.activity.HelpActivity$2
+ scanner.app.scan.qrcode.reader.activity.HelpActivity$3
+ scanner.app.scan.qrcode.reader.activity.HelpActivity$4
+scanner/app/scan/qrcode/reader/databinding/ActivityHelpBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ActivityHelpBinding
+scanner/app/scan/qrcode/reader/zxing/core/ViewFinderView.java
+ scanner.app.scan.qrcode.reader.zxing.core.ViewFinderView
+scanner/app/scan/qrcode/reader/utility/DialogUtils.java
+ scanner.app.scan.qrcode.reader.utility.DialogUtils
+ scanner.app.scan.qrcode.reader.utility.DialogUtils$1
+ scanner.app.scan.qrcode.reader.utility.DialogUtils$2
+ scanner.app.scan.qrcode.reader.utility.DialogUtils$DialogActionListener
+scanner/app/scan/qrcode/reader/databinding/FragmentHistoryBinding.java
+ scanner.app.scan.qrcode.reader.databinding.FragmentHistoryBinding
+scanner/app/scan/qrcode/reader/databinding/BarcodeRecyclerBinding.java
+ scanner.app.scan.qrcode.reader.databinding.BarcodeRecyclerBinding
+scanner/app/scan/qrcode/reader/databinding/GenerateRecyclerBinding.java
+ scanner.app.scan.qrcode.reader.databinding.GenerateRecyclerBinding
+scanner/app/scan/qrcode/reader/databinding/FragmentGenerateBinding.java
+ scanner.app.scan.qrcode.reader.databinding.FragmentGenerateBinding
+scanner/app/scan/qrcode/reader/databinding/ActivitySlideBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ActivitySlideBinding
+scanner/app/scan/qrcode/reader/adapter/HistoryAdapter.java
+ scanner.app.scan.qrcode.reader.adapter.HistoryAdapter
+ scanner.app.scan.qrcode.reader.adapter.HistoryAdapter$ClickListener
+ scanner.app.scan.qrcode.reader.adapter.HistoryAdapter$ViewHolder
+scanner/app/scan/qrcode/reader/activity/QRCodeGeneratorScanner.java
+ scanner.app.scan.qrcode.reader.activity.QRCodeGeneratorScanner
+ scanner.app.scan.qrcode.reader.activity.QRCodeGeneratorScanner$1
+ scanner.app.scan.qrcode.reader.activity.QRCodeGeneratorScanner$10
+ scanner.app.scan.qrcode.reader.activity.QRCodeGeneratorScanner$2
+ scanner.app.scan.qrcode.reader.activity.QRCodeGeneratorScanner$3
+ scanner.app.scan.qrcode.reader.activity.QRCodeGeneratorScanner$4
+ scanner.app.scan.qrcode.reader.activity.QRCodeGeneratorScanner$4$1
+ scanner.app.scan.qrcode.reader.activity.QRCodeGeneratorScanner$5
+ scanner.app.scan.qrcode.reader.activity.QRCodeGeneratorScanner$6
+ scanner.app.scan.qrcode.reader.activity.QRCodeGeneratorScanner$7
+ scanner.app.scan.qrcode.reader.activity.QRCodeGeneratorScanner$8
+ scanner.app.scan.qrcode.reader.activity.QRCodeGeneratorScanner$9
+scanner/app/scan/qrcode/reader/data/preference/AppPreference.java
+ scanner.app.scan.qrcode.reader.data.preference.AppPreference
+scanner/app/scan/qrcode/reader/utility/CodeGenerator.java
+ scanner.app.scan.qrcode.reader.utility.CodeGenerator
+ scanner.app.scan.qrcode.reader.utility.CodeGenerator$ResultListener
+scanner/app/scan/qrcode/reader/utility/CustomViewFinderView.java
+ scanner.app.scan.qrcode.reader.utility.CustomViewFinderView
+scanner/app/scan/qrcode/reader/databinding/QrEditTextLayoutBinding.java
+ scanner.app.scan.qrcode.reader.databinding.QrEditTextLayoutBinding
+scanner/app/scan/qrcode/reader/activity/ResultActivity.java
+ scanner.app.scan.qrcode.reader.activity.ResultActivity
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$1
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$10
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$11
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$12
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$13
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$14
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$15
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$16
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$17
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$18
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$19
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$2
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$20
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$21
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$22
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$23
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$24
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$25
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$26
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$27
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$28
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$29
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$3
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$30
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$31
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$32
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$33
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$34
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$35
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$36
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$37
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$38
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$39
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$4
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$5
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$6
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$7
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$8
+ scanner.app.scan.qrcode.reader.activity.ResultActivity$9
+scanner/app/scan/qrcode/reader/databinding/ActivitySupportedCodesBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ActivitySupportedCodesBinding
+scanner/app/scan/qrcode/reader/utility/AppUtils.java
+ scanner.app.scan.qrcode.reader.utility.AppUtils
+ scanner.app.scan.qrcode.reader.utility.AppUtils$1
+ scanner.app.scan.qrcode.reader.utility.AppUtils$2
+ scanner.app.scan.qrcode.reader.utility.AppUtils$3
+ scanner.app.scan.qrcode.reader.utility.AppUtils$4
+ scanner.app.scan.qrcode.reader.utility.AppUtils$5
+ scanner.app.scan.qrcode.reader.utility.AppUtils$6
+ scanner.app.scan.qrcode.reader.utility.AppUtils$7
+ scanner.app.scan.qrcode.reader.utility.AppUtils$8
+ scanner.app.scan.qrcode.reader.utility.AppUtils$9
+scanner/app/scan/qrcode/reader/data/preference/TemplateModel.java
+ scanner.app.scan.qrcode.reader.data.preference.TemplateModel
+scanner/app/scan/qrcode/reader/utility/AppOpenScript.java
+ scanner.app.scan.qrcode.reader.utility.AppOpenScript
+ scanner.app.scan.qrcode.reader.utility.AppOpenScript$1
+ scanner.app.scan.qrcode.reader.utility.AppOpenScript$2
+scanner/app/scan/qrcode/reader/activity/SlideActivity.java
+ scanner.app.scan.qrcode.reader.activity.SlideActivity
+ scanner.app.scan.qrcode.reader.activity.SlideActivity$1
+ scanner.app.scan.qrcode.reader.activity.SlideActivity$2
+ scanner.app.scan.qrcode.reader.activity.SlideActivity$3
+ scanner.app.scan.qrcode.reader.activity.SlideActivity$4
+ scanner.app.scan.qrcode.reader.activity.SlideActivity$5
+scanner/app/scan/qrcode/reader/databinding/GradientRecyclerBinding.java
+ scanner.app.scan.qrcode.reader.databinding.GradientRecyclerBinding
+scanner/app/scan/qrcode/reader/activity/AfterSplash.java
+ scanner.app.scan.qrcode.reader.activity.AfterSplash
+ scanner.app.scan.qrcode.reader.activity.AfterSplash$1
+ scanner.app.scan.qrcode.reader.activity.AfterSplash$10
+ scanner.app.scan.qrcode.reader.activity.AfterSplash$11
+ scanner.app.scan.qrcode.reader.activity.AfterSplash$12
+ scanner.app.scan.qrcode.reader.activity.AfterSplash$2
+ scanner.app.scan.qrcode.reader.activity.AfterSplash$3
+ scanner.app.scan.qrcode.reader.activity.AfterSplash$4
+ scanner.app.scan.qrcode.reader.activity.AfterSplash$5
+ scanner.app.scan.qrcode.reader.activity.AfterSplash$6
+ scanner.app.scan.qrcode.reader.activity.AfterSplash$7
+ scanner.app.scan.qrcode.reader.activity.AfterSplash$8
+ scanner.app.scan.qrcode.reader.activity.AfterSplash$9
+scanner/app/scan/qrcode/reader/activity/EditQRCode.java
+ scanner.app.scan.qrcode.reader.activity.EditQRCode
+ scanner.app.scan.qrcode.reader.activity.EditQRCode$1
+ scanner.app.scan.qrcode.reader.activity.EditQRCode$2
+ scanner.app.scan.qrcode.reader.activity.EditQRCode$3
+ scanner.app.scan.qrcode.reader.activity.EditQRCode$4
+ scanner.app.scan.qrcode.reader.activity.EditQRCode$5
+ scanner.app.scan.qrcode.reader.activity.EditQRCode$6
+ scanner.app.scan.qrcode.reader.activity.EditQRCode$7
+ scanner.app.scan.qrcode.reader.activity.EditQRCode$8
+scanner/app/scan/qrcode/reader/databinding/FragmentScanBinding.java
+ scanner.app.scan.qrcode.reader.databinding.FragmentScanBinding
+scanner/app/scan/qrcode/reader/utility/ResultOfTypeAndValue.java
+ scanner.app.scan.qrcode.reader.utility.ResultOfTypeAndValue
+scanner/app/scan/qrcode/reader/zxing/core/IViewFinder.java
+ scanner.app.scan.qrcode.reader.zxing.core.IViewFinder
+scanner/app/scan/qrcode/reader/adapter/BarcodeAdapter.java
+ scanner.app.scan.qrcode.reader.adapter.BarcodeAdapter
+ scanner.app.scan.qrcode.reader.adapter.BarcodeAdapter$BarcodeViewHolder
+ scanner.app.scan.qrcode.reader.adapter.BarcodeAdapter$ClickListener
+scanner/app/scan/qrcode/reader/activity/GenerateActivity.java
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$1
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$10
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$11
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$11$1
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$11$2
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$11$3
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$12
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$12$1
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$13
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$13$1
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$14
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$14$1
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$15
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$15$1
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$16
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$17
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$18
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$19
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$2
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$20
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$21
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$22
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$23
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$23$1
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$24
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$25
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$26
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$3
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$4
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$5
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$6
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$7
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$8
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$9
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$9$1
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$9$2
+ scanner.app.scan.qrcode.reader.activity.GenerateActivity$9$3
+scanner/app/scan/qrcode/reader/adapter/GradientAdapter.java
+ scanner.app.scan.qrcode.reader.adapter.GradientAdapter
+ scanner.app.scan.qrcode.reader.adapter.GradientAdapter$ClickListener
+ scanner.app.scan.qrcode.reader.adapter.GradientAdapter$GradientViewHolder
+scanner/app/scan/qrcode/reader/fragment/ScanFragment.java
+ scanner.app.scan.qrcode.reader.fragment.ScanFragment
+ scanner.app.scan.qrcode.reader.fragment.ScanFragment$1
+ scanner.app.scan.qrcode.reader.fragment.ScanFragment$2
+ scanner.app.scan.qrcode.reader.fragment.ScanFragment$3
+ scanner.app.scan.qrcode.reader.fragment.ScanFragment$4
+ scanner.app.scan.qrcode.reader.fragment.ScanFragment$5
+ scanner.app.scan.qrcode.reader.fragment.ScanFragment$6
+ scanner.app.scan.qrcode.reader.fragment.ScanFragment$7
+scanner/app/scan/qrcode/reader/pushnotification/FireBaseNotification.java
+ scanner.app.scan.qrcode.reader.pushnotification.FireBaseNotification
+scanner/app/scan/qrcode/reader/fragment/GenerateSupported.java
+ scanner.app.scan.qrcode.reader.fragment.GenerateSupported
+scanner/app/scan/qrcode/reader/data/constant/SupportedModelClass.java
+ scanner.app.scan.qrcode.reader.data.constant.SupportedModelClass
+scanner/app/scan/qrcode/reader/databinding/ActivityResultBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ActivityResultBinding
+scanner/app/scan/qrcode/reader/databinding/ActivityMainBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ActivityMainBinding
+scanner/app/scan/qrcode/reader/activity/AppOpenManagerNew.java
+ scanner.app.scan.qrcode.reader.activity.AppOpenManagerNew
+ scanner.app.scan.qrcode.reader.activity.AppOpenManagerNew$1
+ scanner.app.scan.qrcode.reader.activity.AppOpenManagerNew$2
+scanner/app/scan/qrcode/reader/data/preference/PrefKey.java
+ scanner.app.scan.qrcode.reader.data.preference.PrefKey
+scanner/app/scan/qrcode/reader/databinding/AdUnifiedBinding.java
+ scanner.app.scan.qrcode.reader.databinding.AdUnifiedBinding
+scanner/app/scan/qrcode/reader/data/preference/GenerateModel.java
+ scanner.app.scan.qrcode.reader.data.preference.GenerateModel
+scanner/app/scan/qrcode/reader/activity/TipsActivity.java
+ scanner.app.scan.qrcode.reader.activity.TipsActivity
+ scanner.app.scan.qrcode.reader.activity.TipsActivity$1
+scanner/app/scan/qrcode/reader/databinding/BottomSheetDialogBinding.java
+ scanner.app.scan.qrcode.reader.databinding.BottomSheetDialogBinding
+scanner/app/scan/qrcode/reader/activity/CropActivity.java
+ scanner.app.scan.qrcode.reader.activity.CropActivity
+ scanner.app.scan.qrcode.reader.activity.CropActivity$1
+ scanner.app.scan.qrcode.reader.activity.CropActivity$2
+scanner/app/scan/qrcode/reader/databinding/EyesDotsItemBinding.java
+ scanner.app.scan.qrcode.reader.databinding.EyesDotsItemBinding
+scanner/app/scan/qrcode/reader/activity/PdfDocumentAdapter.java
+ scanner.app.scan.qrcode.reader.activity.PdfDocumentAdapter
+scanner/app/scan/qrcode/reader/activity/DeviceBootReceiver.java
+ scanner.app.scan.qrcode.reader.activity.DeviceBootReceiver
+scanner/app/scan/qrcode/reader/zxing/ZXingScannerView.java
+ scanner.app.scan.qrcode.reader.zxing.ZXingScannerView
+ scanner.app.scan.qrcode.reader.zxing.ZXingScannerView$1
+ scanner.app.scan.qrcode.reader.zxing.ZXingScannerView$ResultHandler
+scanner/app/scan/qrcode/reader/databinding/ColorRecyclerBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ColorRecyclerBinding
+scanner/app/scan/qrcode/reader/adapter/IntroAdapter.java
+ scanner.app.scan.qrcode.reader.adapter.IntroAdapter
+ scanner.app.scan.qrcode.reader.adapter.IntroAdapter$1
+scanner/app/scan/qrcode/reader/utility/AdsManagerQ.java
+ scanner.app.scan.qrcode.reader.utility.AdsManagerQ
+ scanner.app.scan.qrcode.reader.utility.AdsManagerQ$1
+ scanner.app.scan.qrcode.reader.utility.AdsManagerQ$2
+ scanner.app.scan.qrcode.reader.utility.AdsManagerQ$3
+ scanner.app.scan.qrcode.reader.utility.AdsManagerQ$4
+ scanner.app.scan.qrcode.reader.utility.AdsManagerQ$5
+ scanner.app.scan.qrcode.reader.utility.AdsManagerQ$6
+ scanner.app.scan.qrcode.reader.utility.AdsManagerQ$7
+scanner/app/scan/qrcode/reader/databinding/ActivityRemoveAdsBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ActivityRemoveAdsBinding
+scanner/app/scan/qrcode/reader/databinding/ItemSlide3Binding.java
+ scanner.app.scan.qrcode.reader.databinding.ItemSlide3Binding
+scanner/app/scan/qrcode/reader/databinding/ContentResultBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ContentResultBinding
+scanner/app/scan/qrcode/reader/databinding/SupportedLayoutBinding.java
+ scanner.app.scan.qrcode.reader.databinding.SupportedLayoutBinding
+scanner/app/scan/qrcode/reader/fragment/GenerateFragment.java
+ scanner.app.scan.qrcode.reader.fragment.GenerateFragment
+ scanner.app.scan.qrcode.reader.fragment.GenerateFragment$1
+ scanner.app.scan.qrcode.reader.fragment.GenerateFragment$2
+scanner/app/scan/qrcode/reader/activity/QRImageActivity.java
+ scanner.app.scan.qrcode.reader.activity.QRImageActivity
+ scanner.app.scan.qrcode.reader.activity.QRImageActivity$1
+scanner/app/scan/qrcode/reader/activity/MyApp.java
+ scanner.app.scan.qrcode.reader.activity.MyApp
+scanner/app/scan/qrcode/reader/activity/ScanningNotWork.java
+ scanner.app.scan.qrcode.reader.activity.ScanningNotWork
+ scanner.app.scan.qrcode.reader.activity.ScanningNotWork$1
+scanner/app/scan/qrcode/reader/adapter/TabAdapter.java
+ scanner.app.scan.qrcode.reader.adapter.TabAdapter
+scanner/app/scan/qrcode/reader/fragment/ScanSupported.java
+ scanner.app.scan.qrcode.reader.fragment.ScanSupported
+scanner/app/scan/qrcode/reader/databinding/ActivityShareAndCropBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ActivityShareAndCropBinding
+scanner/app/scan/qrcode/reader/adapter/SupportedAdapter.java
+ scanner.app.scan.qrcode.reader.adapter.SupportedAdapter
+ scanner.app.scan.qrcode.reader.adapter.SupportedAdapter$ClickListener
+ scanner.app.scan.qrcode.reader.adapter.SupportedAdapter$SupportedViewHolder
+scanner/app/scan/qrcode/reader/databinding/ItemSlide1Binding.java
+ scanner.app.scan.qrcode.reader.databinding.ItemSlide1Binding
+scanner/app/scan/qrcode/reader/databinding/ActivityAfterSplashBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ActivityAfterSplashBinding
+scanner/app/scan/qrcode/reader/databinding/ItemSlide2Binding.java
+ scanner.app.scan.qrcode.reader.databinding.ItemSlide2Binding
+scanner/app/scan/qrcode/reader/databinding/ActivityCustomQrcodeBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ActivityCustomQrcodeBinding
+scanner/app/scan/qrcode/reader/databinding/ItemHistoryBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ItemHistoryBinding
+scanner/app/scan/qrcode/reader/databinding/AppPermissionDialogBinding.java
+ scanner.app.scan.qrcode.reader.databinding.AppPermissionDialogBinding
+scanner/app/scan/qrcode/reader/databinding/SaveDialogueBinding.java
+ scanner.app.scan.qrcode.reader.databinding.SaveDialogueBinding
+scanner/app/scan/qrcode/reader/databinding/ActivityQrimageBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ActivityQrimageBinding
+scanner/app/scan/qrcode/reader/databinding/ActivityQrcodeGeneratorScannerBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ActivityQrcodeGeneratorScannerBinding
+scanner/app/scan/qrcode/reader/adapter/LogoAdapter.java
+ scanner.app.scan.qrcode.reader.adapter.LogoAdapter
+ scanner.app.scan.qrcode.reader.adapter.LogoAdapter$ClickListener
+ scanner.app.scan.qrcode.reader.adapter.LogoAdapter$ColorViewHolder
+ scanner.app.scan.qrcode.reader.adapter.LogoAdapter$ColorViewHolder$1
+scanner/app/scan/qrcode/reader/databinding/ScanSupportedBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ScanSupportedBinding
+scanner/app/scan/qrcode/reader/adapter/ColorAdapter.java
+ scanner.app.scan.qrcode.reader.adapter.ColorAdapter
+ scanner.app.scan.qrcode.reader.adapter.ColorAdapter$ClickListener
+ scanner.app.scan.qrcode.reader.adapter.ColorAdapter$ColorViewHolder
+ scanner.app.scan.qrcode.reader.adapter.ColorAdapter$ColorViewHolder$1
+scanner/app/scan/qrcode/reader/BuildConfig.java
+ scanner.app.scan.qrcode.reader.BuildConfig
+scanner/app/scan/qrcode/reader/zxing/core/CameraPreview.java
+ scanner.app.scan.qrcode.reader.zxing.core.CameraPreview
+ scanner.app.scan.qrcode.reader.zxing.core.CameraPreview$1
+ scanner.app.scan.qrcode.reader.zxing.core.CameraPreview$2
+ scanner.app.scan.qrcode.reader.zxing.core.CameraPreview$3
+scanner/app/scan/qrcode/reader/databinding/AfterSplashBinding.java
+ scanner.app.scan.qrcode.reader.databinding.AfterSplashBinding
+scanner/app/scan/qrcode/reader/zxing/core/CameraHandlerThread.java
+ scanner.app.scan.qrcode.reader.zxing.core.CameraHandlerThread
+ scanner.app.scan.qrcode.reader.zxing.core.CameraHandlerThread$1
+ scanner.app.scan.qrcode.reader.zxing.core.CameraHandlerThread$1$1
+scanner/app/scan/qrcode/reader/activity/NotificationHelper.java
+ scanner.app.scan.qrcode.reader.activity.NotificationHelper
+scanner/app/scan/qrcode/reader/fragment/SettingsFragment.java
+ scanner.app.scan.qrcode.reader.fragment.SettingsFragment
+ scanner.app.scan.qrcode.reader.fragment.SettingsFragment$1
+ scanner.app.scan.qrcode.reader.fragment.SettingsFragment$2
+ scanner.app.scan.qrcode.reader.fragment.SettingsFragment$3
+ scanner.app.scan.qrcode.reader.fragment.SettingsFragment$4
+ scanner.app.scan.qrcode.reader.fragment.SettingsFragment$5
+ scanner.app.scan.qrcode.reader.fragment.SettingsFragment$6
+ scanner.app.scan.qrcode.reader.fragment.SettingsFragment$7
+scanner/app/scan/qrcode/reader/activity/RemoveAdsActivity.java
+ scanner.app.scan.qrcode.reader.activity.RemoveAdsActivity
+ scanner.app.scan.qrcode.reader.activity.RemoveAdsActivity$1
+ scanner.app.scan.qrcode.reader.activity.RemoveAdsActivity$2
+ scanner.app.scan.qrcode.reader.activity.RemoveAdsActivity$3
+ scanner.app.scan.qrcode.reader.activity.RemoveAdsActivity$4
+ scanner.app.scan.qrcode.reader.activity.RemoveAdsActivity$5
+scanner/app/scan/qrcode/reader/databinding/ActivityGenerateBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ActivityGenerateBinding
+scanner/app/scan/qrcode/reader/databinding/DecorationsLayoutBinding.java
+ scanner.app.scan.qrcode.reader.databinding.DecorationsLayoutBinding
+scanner/app/scan/qrcode/reader/databinding/ProgressDialogueBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ProgressDialogueBinding
+scanner/app/scan/qrcode/reader/AdEvents/AdEvent.java
+ scanner.app.scan.qrcode.reader.AdEvents.AdEvent
+ scanner.app.scan.qrcode.reader.AdEvents.AdEvent$1
+scanner/app/scan/qrcode/reader/activity/AlarmReceiver.java
+ scanner.app.scan.qrcode.reader.activity.AlarmReceiver
+scanner/app/scan/qrcode/reader/data/BackgroundImages.java
+ scanner.app.scan.qrcode.reader.data.BackgroundImages
+scanner/app/scan/qrcode/reader/zxing/core/CameraUtils.java
+ scanner.app.scan.qrcode.reader.zxing.core.CameraUtils
+scanner/app/scan/qrcode/reader/utility/ActivityUtils.java
+ scanner.app.scan.qrcode.reader.utility.ActivityUtils
+scanner/app/scan/qrcode/reader/databinding/FragmentSettingsBinding.java
+ scanner.app.scan.qrcode.reader.databinding.FragmentSettingsBinding
+scanner/app/scan/qrcode/reader/databinding/ActivityTipsBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ActivityTipsBinding
+scanner/app/scan/qrcode/reader/fragment/HistoryFragment.java
+ scanner.app.scan.qrcode.reader.fragment.HistoryFragment
+ scanner.app.scan.qrcode.reader.fragment.HistoryFragment$1
+ scanner.app.scan.qrcode.reader.fragment.HistoryFragment$1$1
+ scanner.app.scan.qrcode.reader.fragment.HistoryFragment$2
+ scanner.app.scan.qrcode.reader.fragment.HistoryFragment$3
+ scanner.app.scan.qrcode.reader.fragment.HistoryFragment$4
+ scanner.app.scan.qrcode.reader.fragment.HistoryFragment$4$1
+ scanner.app.scan.qrcode.reader.fragment.HistoryFragment$5
+ scanner.app.scan.qrcode.reader.fragment.HistoryFragment$6
+scanner/app/scan/qrcode/reader/utility/SingleMediaScanner.java
+ scanner.app.scan.qrcode.reader.utility.SingleMediaScanner
+scanner/app/scan/qrcode/reader/databinding/RateDialogBinding.java
+ scanner.app.scan.qrcode.reader.databinding.RateDialogBinding
+scanner/app/scan/qrcode/reader/databinding/ActivityScanningNotWorkBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ActivityScanningNotWorkBinding
+scanner/app/scan/qrcode/reader/databinding/LogoRecyclerBinding.java
+ scanner.app.scan.qrcode.reader.databinding.LogoRecyclerBinding
+scanner/app/scan/qrcode/reader/databinding/ActivityQrcodeGenerateBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ActivityQrcodeGenerateBinding
+scanner/app/scan/qrcode/reader/data/constant/Constants.java
+ scanner.app.scan.qrcode.reader.data.constant.Constants
+scanner/app/scan/qrcode/reader/databinding/ActivityCropBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ActivityCropBinding
+scanner/app/scan/qrcode/reader/adapter/MainPagerAdapter.java
+ scanner.app.scan.qrcode.reader.adapter.MainPagerAdapter
+scanner/app/scan/qrcode/reader/activity/EntryActivity.java
+ scanner.app.scan.qrcode.reader.activity.EntryActivity
+scanner/app/scan/qrcode/reader/adapter/ClickableViewPager.java
+ scanner.app.scan.qrcode.reader.adapter.ClickableViewPager
+ scanner.app.scan.qrcode.reader.adapter.ClickableViewPager$1
+ scanner.app.scan.qrcode.reader.adapter.ClickableViewPager$OnItemClickListener
+ scanner.app.scan.qrcode.reader.adapter.ClickableViewPager$TapGestureListener
+scanner/app/scan/qrcode/reader/databinding/ActivityEditQrcodeBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ActivityEditQrcodeBinding
+scanner/app/scan/qrcode/reader/zxing/core/DisplayUtils.java
+ scanner.app.scan.qrcode.reader.zxing.core.DisplayUtils
+scanner/app/scan/qrcode/reader/zxing/core/CameraWrapper.java
+ scanner.app.scan.qrcode.reader.zxing.core.CameraWrapper
+scanner/app/scan/qrcode/reader/databinding/ScannedDialogBinding.java
+ scanner.app.scan.qrcode.reader.databinding.ScannedDialogBinding
+scanner/app/scan/qrcode/reader/activity/SupportedCodes.java
+ scanner.app.scan.qrcode.reader.activity.SupportedCodes
+ scanner.app.scan.qrcode.reader.activity.SupportedCodes$1
+ scanner.app.scan.qrcode.reader.activity.SupportedCodes$ViewPagerAdapter
+scanner/app/scan/qrcode/reader/adapter/EyesDotsAdapter.java
+ scanner.app.scan.qrcode.reader.adapter.EyesDotsAdapter
+ scanner.app.scan.qrcode.reader.adapter.EyesDotsAdapter$ClickListener
+ scanner.app.scan.qrcode.reader.adapter.EyesDotsAdapter$EyesDotsViewHolder
+scanner/app/scan/qrcode/reader/adapter/GenerateAdapter.java
+ scanner.app.scan.qrcode.reader.adapter.GenerateAdapter
+ scanner.app.scan.qrcode.reader.adapter.GenerateAdapter$ClickListener
+ scanner.app.scan.qrcode.reader.adapter.GenerateAdapter$GenerateViewHolder
+ scanner.app.scan.qrcode.reader.adapter.GenerateAdapter$GenerateViewHolder$1
+scanner/app/scan/qrcode/reader/activity/MainActivity.java
+ scanner.app.scan.qrcode.reader.activity.MainActivity
+ scanner.app.scan.qrcode.reader.activity.MainActivity$1
+ scanner.app.scan.qrcode.reader.activity.MainActivity$10
+ scanner.app.scan.qrcode.reader.activity.MainActivity$2
+ scanner.app.scan.qrcode.reader.activity.MainActivity$3
+ scanner.app.scan.qrcode.reader.activity.MainActivity$4
+ scanner.app.scan.qrcode.reader.activity.MainActivity$5
+ scanner.app.scan.qrcode.reader.activity.MainActivity$6
+ scanner.app.scan.qrcode.reader.activity.MainActivity$7
+ scanner.app.scan.qrcode.reader.activity.MainActivity$8
+ scanner.app.scan.qrcode.reader.activity.MainActivity$9
+scanner/app/scan/qrcode/reader/zxing/core/BarcodeScannerView.java
+ scanner.app.scan.qrcode.reader.zxing.core.BarcodeScannerView
+scanner/app/scan/qrcode/reader/adapter/TipsAdapter.java
+ scanner.app.scan.qrcode.reader.adapter.TipsAdapter
+ scanner.app.scan.qrcode.reader.adapter.TipsAdapter$ClickListener
+ scanner.app.scan.qrcode.reader.adapter.TipsAdapter$TipsViewHolder
+scanner/app/scan/qrcode/reader/activity/Common.java
+ scanner.app.scan.qrcode.reader.activity.Common

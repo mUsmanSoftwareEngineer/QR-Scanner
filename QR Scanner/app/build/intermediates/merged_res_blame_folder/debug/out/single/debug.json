@@ -1,0 +1,974 @@
+[
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rate_us.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\rate_us.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_03.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\gradient_03.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_country_code_bg.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\country_code_bg.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twitter_icon.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\twitter_icon.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_micro_qr_code.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\micro_qr_code.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_app_icon_splash.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable-xxhdpi\\app_icon_splash.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bar_code_icon5.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\bar_code_icon5.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tips.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_tips.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qrcode.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\qrcode.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_sheet_dialog.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_navigation.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\menu\\bottom_navigation.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_qr_7.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\logo_qr_7.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_instagram_icon.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\instagram_icon.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tutorial.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\tutorial.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eye_07.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\eye_07.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_04.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\gradient_04.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_qrimage.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_qrimage.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eye_01.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\eye_01.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stroke_bg.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\stroke_bg.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sms_scanner.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\sms_scanner.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_10.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\gradient_10.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scanning_issues.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\scanning_issues.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_custom_qrcode.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_custom_qrcode.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_rate_dialog.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\rate_dialog.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_generate.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_generate.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_drop_down_24.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_drop_down_24.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_refresh_24.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ic_baseline_refresh_24.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_app_icon_splash.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable-xxxhdpi\\app_icon_splash.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_code_128.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\code_128.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_app_icon_splash.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable-hdpi\\app_icon_splash.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_ad_attribution.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\round_ad_attribution.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_bg.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\circle_bg.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wrong_2.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\wrong_2.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_right.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\anim\\slide_right.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_qr_1.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\logo_qr_1.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_qr_code.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\share_qr_code.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon_foreground.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\mipmap-mdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_05.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\gradient_05.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amazon_icon.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\amazon_icon.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_access_time_24.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ic_baseline_access_time_24.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_copy_scanner.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\copy_scanner.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_result.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\content_result.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_ad_unified.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\ad_unified.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_supported_layout.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\supported_layout.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_barcode_scanner.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\barcode_scanner.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_icon.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\mipmap-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flash_off_scanner.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\flash_off_scanner.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_call_scanner.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\call_scanner.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\mipmap-xxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_email_scanner.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\email_scanner.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_1.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\bg_1.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_itf.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\itf.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_02.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\gradient_02.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_permission_dialog.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\permission_dialog.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_correct_2.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\correct_2.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_qr_placeholder.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ic_qr_placeholder.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_background.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\splash_background.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_icon_foreground.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ean_8.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ean_8.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_code_39.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\code_39.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_upc_a.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\upc_a.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_history.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\anim_exit.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\anim\\exit.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_share_and_crop.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_share_and_crop.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ratingstar_yellow.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ratingstar_yellow.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_upc_e.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\upc_e.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings_scanner.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\settings_scanner.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_remove_ads.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_remove_ads.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tips.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\tips.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_whatsapp_icon.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\whatsapp_icon.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_icon.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\mipmap-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_bg.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\logo_bg.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_after_splash.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\after_splash.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\anim_enter.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\anim\\enter.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_color_recycler.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\color_recycler.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notify2.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\notify2.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location_scanner.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\location_scanner.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_slide.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_slide.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_07.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\dot_07.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_traffic_icon.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\traffic_icon.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scanning_tips3.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\scanning_tips3.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_result_background.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\result_background.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eye_08.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\eye_08.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ean_13.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ean_13.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eye_02.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\eye_02.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_01.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\dot_01.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ratingstar_grey.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ratingstar_grey.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_no_ads.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\no_ads.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_history_scanner.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\history_scanner.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_rate_scanner.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable-hdpi\\arrow_rate_scanner.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_language.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\language.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_qr_8.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\logo_qr_8.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pdf_417.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\pdf_417.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blur_effect.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\blur_effect.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eye_06.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\eye_06.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_qr_2.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\logo_qr_2.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_gradient_recycler.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\gradient_recycler.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_code_93.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\code_93.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fancy_qr_new3.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\fancy_qr_new3.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_crown.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\crown.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amazon_bg.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\amazon_bg.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_qr_edit_text_layout.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\qr_edit_text_layout.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_history.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\item_history.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon_splash.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\app_icon_splash.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_navigation_item_background_colors.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\bottom_navigation_item_background_colors.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_icon_foreground.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\mipmap-xhdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_history_btn_color.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\history_btn_color.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_scanned_dialog.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\scanned_dialog.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ad_button.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ad_button.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flash_on_scanner.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\flash_on_scanner.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bar_code_icon3.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\bar_code_icon3.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_icon_splash.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable-xhdpi\\app_icon_splash.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_generate.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\fragment_generate.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_logo_recycler.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\logo_recycler.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_qr_6.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\logo_qr_6.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eye_04.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\eye_04.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_codabar.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\codabar.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wrong.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\wrong.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete_all.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\delete_all.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_09.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\gradient_09.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_qr_4.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\logo_qr_4.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_light_effect.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\light_effect.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_scan_supported.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\scan_supported.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_success_dialog.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\success_dialog.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_input.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\custom_input.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_low_contrast.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\low_contrast.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_circle_24.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ic_baseline_add_circle_24.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_url_scanner.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\url_scanner.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_04.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\dot_04.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bar_code_icon2.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\bar_code_icon2.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_slide_1.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\item_slide_1.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_img_btn.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\round_img_btn.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_icon_foreground.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\mipmap-xxhdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_decorations_layout.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\decorations_layout.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aztec.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\aztec.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qr_code.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\qr_code.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_buttons.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\round_buttons.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_05.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\dot_05.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cursor_drawable.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\cursor_drawable.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tick_icon.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ic_tick_icon.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_background_icon.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ic_background_icon.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_download_icon.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\download_icon.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_maxicode.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\maxicode.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_save_dialogue.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\save_dialogue.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_led_dark.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\led_dark.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_permission_dialog.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\app_permission_dialog.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_barcode_icon.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ic_barcode_icon.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_help.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_privacy_scanner.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\privacy_scanner.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon_foreground.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\mipmap-hdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_bg.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ripple_bg.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_generate_recycler.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\generate_recycler.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_progress_dialogue.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\progress_dialogue.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_buttons_bg.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\rounded_buttons_bg.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialogue_bg.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\dialogue_bg.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_08.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\gradient_08.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_native_ad_bg.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\native_ad_bg.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon_round.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\mipmap-mdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_switch_scanner.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\camera_switch_scanner.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_02.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\dot_02.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_event_scanner.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\event_scanner.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\plus.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_down_arrow_scanner.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\down_arrow_scanner.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_icon.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\color_icon.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_slide_2.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\item_slide_2.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon_round.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\mipmap-hdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cancel.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\cancel.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_crop.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_crop.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bin.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\bin.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_qr_10.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\logo_qr_10.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_barcode_tutorial.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\barcode_tutorial.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_black_bg.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable-hdpi\\black_bg.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_scan.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\fragment_scan.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_info.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\info.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bar_code_tutorial.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\bar_code_tutorial.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_data_matrix.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\data_matrix.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ad_bg.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ad_bg.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_scanning_not_work.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_scanning_not_work.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_after_splash.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_after_splash.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_color.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ic_color.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cross.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\cross.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_go_premium_bg.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\go_premium_bg.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_star_scanner.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable-hdpi\\star_scanner.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_circular_bg.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\white_circular_bg.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\xml_data_extraction_rules.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_07.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\gradient_07.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_scanner.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\text_scanner.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_correct.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\correct.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_qrcode_generator_scanner.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_qrcode_generator_scanner.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ebay.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ebay.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_scanner.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\edit_scanner.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_remove_circle_24.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ic_baseline_remove_circle_24.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook_icon.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\facebook_icon.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_generate_bg.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\generate_bg.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_supported_codes.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_supported_codes.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_left.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\anim\\slide_left.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_eyes_dots_item.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\eyes_dots_item.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_help_3.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\help_3.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_qr_9.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\logo_qr_9.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_08.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\dot_08.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\mipmap-xhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_icon.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\logo_icon.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_check.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\check.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_barcode_recycler.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\barcode_recycler.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery_scanner.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\gallery_scanner.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_gradient.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\bg_gradient.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_qr_5.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\logo_qr_5.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ms__arrow.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ms__arrow.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_01.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\gradient_01.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_scanner.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\share_scanner.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_slide_3.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\item_slide_3.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_qrcode_generate.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_qrcode_generate.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blur_tutorial.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\blur_tutorial.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_scanner.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\back_scanner.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_image_icon.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\add_image_icon.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete_bg.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\delete_bg.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eye_03.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\eye_03.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_regular.ttf.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\font\\roboto_regular.ttf"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dot_03.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\dot_03.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scan_scanner.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\scan_scanner.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_qr_3.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\logo_qr_3.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_contacts_scanner.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\contacts_scanner.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_linkdein_icon.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\linkdein_icon.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_username_bg.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\username_bg.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_06.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\gradient_06.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_calendar_month_24.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\ic_baseline_calendar_month_24.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_qrcode.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_edit_qrcode.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bar_code_icon4.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\bar_code_icon4.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notifiy1.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\notifiy1.webp"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_editor_yellow.png.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\editor_yellow.png"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wifi_scanner.xml.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\wifi_scanner.xml"
+    },
+    {
+        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eye_05.webp.flat",
+        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\drawable\\eye_05.webp"
+    }
+]

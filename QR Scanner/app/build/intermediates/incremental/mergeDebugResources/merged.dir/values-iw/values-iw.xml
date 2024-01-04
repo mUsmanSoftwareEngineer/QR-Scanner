@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">התראה חדשה אחת (%d)</item>
+    <item quantity="two">%d התראות חדשות</item>
+    <item quantity="many">%d התראות חדשות</item>
+    <item quantity="other">%d התראות חדשות</item>
+  </plurals>
+    <string name="QRCat">קטגוריית QR</string>
+    <string name="QRCode">קוד QR</string>
+    <string name="QRImg">תמונת QR</string>
+    <string name="QRTEXT">טקסט QR</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"ניווט לדף הבית"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"ניווט למעלה"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"עוד אפשרויות"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"סיום"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"הצגת הכול"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"בחירת אפליקציה"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"כבוי"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"מופעל"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+‎"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"מחיקה"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"רווח"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"תפריט+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"חיפוש…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"מחיקת השאילתה"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"שאילתת חיפוש"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"חיפוש"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"שליחת שאילתה"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"חיפוש קולי"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"שיתוף עם"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"שיתוף עם <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"כיווץ"</string>
+    <string name="account">קבל חשבון ליצירת קוד QR עם דוא"ל</string>
+    <string name="account_permissions">7. חשבון: </string>
+    <string name="action">פעולה</string>
+    <string name="ad_attribution">מודעה</string>
+    <string name="address">כתובת</string>
+    <string name="adsTxt">מודעות ממומנות</string>
+    <string name="agree_txt">בהמשך אתה מסכים למדיניות הפרטיות שלנו. זוהי הצעה לכל החיים ואתה יכול לקנות פעם אחת.</string>
+    <string name="allowCameraUse">אפשר שימוש במצלמה</string>
+    <string name="app_name">סורק קוד QR &amp; מחולל</string>
+    <string name="app_name_print">QRCODE</string>
+    <string name="app_permission">הרשאות אפליקציה</string>
+    <string name="background">רקע</string>
+    <string name="barcode">ברקוד</string>
+    <string name="basic">בסיסי</string>
+    <string name="beginTime">זמן התחלה</string>
+    <string name="body">גוף</string>
+    <string name="book_code">הזן את קוד הספר</string>
+    <string name="book_code_1">קוד ספר</string>
+    <string name="book_name">הזן את שם הספר</string>
+    <string name="book_name_1">שם הספר</string>
+    <string name="book_price">הזן את מחיר הספר</string>
+    <string name="book_price_1">מחיר הספר</string>
+    <string name="bottomsheet_action_expand_halfway">הרחבה עד האמצע</string>
+    <string name="call_generate">התקשר</string>
+    <string name="camera">סרוק קוד QR</string>
+    <string name="camera_permission">3. מצלמה: </string>
+    <string name="character_counter_content_description">הוזנו %1$d תווים מתוך %2$d</string>
+    <string name="character_counter_overflowed_content_description">מגבלת התווים חורגת ב-%1$d מתוך %2$d</string>
+    <string name="choose_language">בחר שפה</string>
+    <string name="clear_text_end_icon_content_description">מחיקת הטקסט</string>
+    <string name="color">צבע</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">הפעל</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">‏האפליקציה %1$s לא תפעל אם לא תפעיל את שירותי Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">‏הפעל את שירותי Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">התקן</string>
+    <string name="common_google_play_services_install_text">‏האפליקציה %1$s לא תפעל ללא שירותי Google Play, שאינם מותקנים במכשיר.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">‏קבל את שירותי Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">‏זמינות של שירותי Google Play</string>
+    <string name="common_google_play_services_notification_ticker">‏שגיאה בשירותי Google Play</string>
+    <string name="common_google_play_services_unknown_issue">‏%1$s נתקלה בבעיה בשירותי Google Play. נסה שוב.</string>
+    <string name="common_google_play_services_unsupported_text">‏%1$s לא תפעל ללא שירותי Google Play, שאינם נתמכים במכשיר שלך.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">עדכון</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">‏%1$s לא יפעל אם לא תעדכן את שירותי Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">‏עדכון שירותי Google Play</string>
+    <string name="common_google_play_services_updating_text">‏האפליקציה %1$s לא תפעל ללא שירותי Google Play, שמתעדכנים כרגע.</string>
+    <string name="common_google_play_services_wear_update_text">‏דרושה גרסה חדשה של שירותי Google Play. הגרסה תתעדכן בעצמה תוך זמן קצר.</string>
+    <string name="common_open_on_phone">פתח בטלפון</string>
+    <string name="common_signin_button_text">כניסה</string>
+    <string name="common_signin_button_text_long">‏היכנס באמצעות Google</string>
+    <string name="company">חברה</string>
+    <string name="congratulations">מזל טוב</string>
+    <string name="contact">קבל אנשי קשר ליצירת קוד QR עם סוג אנשי קשר</string>
+    <string name="contact_generate">צור קשר</string>
+    <string name="contacts_permissions">6. אנשי קשר: </string>
+    <string name="content">תוכן</string>
+    <string name="copied">הועתק ללוח.</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"הקישור הועתק ללוח"</string>
+    <string name="create">צור</string>
+    <string name="createQR">צור QR</string>
+    <string name="created_history">היסטוריה נוצרה</string>
+    <string name="date">תאריך</string>
+    <string name="delete_message_all">האם אתה בטוח שברצונך לנקות את הרשימה?</string>
+    <string name="delete_message_item">האם אתה בטוח שברצונך למחוק פריט זה?</string>
+    <string name="description">תיאור</string>
+    <string name="dislike_it">לא אוהב את זה</string>
+    <string name="edit">ערוך</string>
+    <string name="editor">עורך</string>
+    <string name="eleven_digit_with_checksum">11 ספרות עם סכום ביקורת אחד</string>
+    <string name="email">אימייל</string>
+    <string name="email_generate">דוא"ל</string>
+    <string name="endTime">זמן סיום</string>
+    <string name="enter_text_in_uppercase_without_special_characters">טקסט באותיות רישיות ללא תווים מיוחדים</string>
+    <string name="enter_text_without_special_characters">הזן טקסט ללא תווים מיוחדים</string>
+    <string name="error_file">הקובץ לא נמצא</string>
+    <string name="error_icon_content_description">שגיאה</string>
+    <string name="error_restart_app">אירעה שגיאה, אנא הפעל מחדש את האפליקציה</string>
+    <string name="error_unexpected">התרחשה שגיאה בלתי צפויה</string>
+    <string name="error_unknown">שגיאה לא ידועה</string>
+    <string name="event_generate">אירוע</string>
+    <string name="event_name">שם האירוע</string>
+    <string name="exposed_dropdown_menu_content_description">הצגת התפריט הנפתח</string>
+    <string name="facebook_url">הזן כתובת אתר של פייסבוק</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"העתקת הקישור"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"פתיחה בדפדפן"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"לשיתוף הקישור"</string>
+    <string name="follow_scan_tips">עקוב אחר עצות הסריקה</string>
+    <string name="fragmentName">FragmentName</string>
+    <string name="general">כללי</string>
+    <string name="generate_from_source">צור ממקור נתונים</string>
+    <string name="good_luck">בהצלחה</string>
+    <string name="got_it">הבנתי!</string>
+    <string name="help">עזרה ומשוב</string>
+    <string name="hidden">רשת נסתרת</string>
+    <string name="history">היסטוריה</string>
+    <string name="icon_content_description">סמל לתיבת דו-שיח</string>
+    <string name="item_view_role_description">מקש Tab</string>
+    <string name="job">תפקיד</string>
+    <string name="latitude">רוחב</string>
+    <string name="linkdein_url">הזן את כתובת האתר של Linkdein</string>
+    <string name="loading_ad">טוען מודעה</string>
+    <string name="localize_app">לוקליזציה</string>
+    <string name="location">מיקום</string>
+    <string name="location_generate">מיקום</string>
+    <string name="logo">לוגו</string>
+    <string name="longitude">קו אורך</string>
+    <string name="material_clock_toggle_content_description">יש לבחור ב-AM או ב-PM</string>
+    <string name="material_hour_selection">בחר שעה</string>
+    <string name="material_hour_suffix">השעה %1$s</string>
+    <string name="material_minute_selection">בחר דקות</string>
+    <string name="material_minute_suffix">%1$s דקות</string>
+    <string name="material_timepicker_am">לפנה\"צ</string>
+    <string name="material_timepicker_clock_mode_description">העבר למצב שעון לצורך הזנת השעה</string>
+    <string name="material_timepicker_hour">שעה</string>
+    <string name="material_timepicker_minute">דקה</string>
+    <string name="material_timepicker_pm">אחה\"צ</string>
+    <string name="material_timepicker_select_time">בחר שעה</string>
+    <string name="material_timepicker_text_input_mode_description">העבר למצב קלט טקסט לצורך הזנת השעה</string>
+    <string name="md_choose_label">בחר</string>
+    <string name="menu_generate">צור קוד QR</string>
+    <string name="menu_history">היסטוריה</string>
+    <string name="menu_scan">סריקה</string>
+    <string name="menu_setting">הגדרה</string>
+    <string name="message">הודעה</string>
+    <string name="mtrl_badge_numberless_content_description">התראה חדשה</string>
+    <string name="mtrl_chip_close_icon_content_description">הסרה של %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">יותר מ-%1$d התראות חדשות</string>
+    <string name="mtrl_picker_a11y_next_month">מעבר לחודש הבא</string>
+    <string name="mtrl_picker_a11y_prev_month">מעבר לחודש הקודם</string>
+    <string name="mtrl_picker_announce_current_selection">הבחירה הנוכחית: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">יש לבחור תאריך</string>
+    <string name="mtrl_picker_date_header_unselected">התאריך הנבחר</string>
+    <string name="mtrl_picker_day_of_week_column_header">עמודה של ימים: %1$s</string>
+    <string name="mtrl_picker_invalid_format">פורמט לא חוקי.</string>
+    <string name="mtrl_picker_invalid_format_example">דוגמה: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">יש להשתמש בפורמט: %1$s</string>
+    <string name="mtrl_picker_invalid_range">טווח לא חוקי.</string>
+    <string name="mtrl_picker_navigate_to_year_description">ניווט לשנת %1$s</string>
+    <string name="mtrl_picker_out_of_range">מחוץ לטווח: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">תאריך התחלה – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – תאריך סיום</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">יש לבחור טווח</string>
+    <string name="mtrl_picker_range_header_unselected">תאריך התחלה - תאריך סיום</string>
+    <string name="mtrl_picker_save">שמירה</string>
+    <string name="mtrl_picker_text_input_date_hint">תאריך</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">תאריך סיום</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">תאריך התחלה</string>
+    <string name="mtrl_picker_text_input_day_abbr">י</string>
+    <string name="mtrl_picker_text_input_month_abbr">ח</string>
+    <string name="mtrl_picker_text_input_year_abbr">ש</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">החלפה לשיטת קלט של יומן</string>
+    <string name="mtrl_picker_toggle_to_day_selection">יש להקיש כדי להחליף לבחירת יום</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">החלפה לשיטת קלט של טקסט</string>
+    <string name="mtrl_picker_toggle_to_year_selection">יש להקיש כדי להחליף לבחירת שנה</string>
+    <string name="name">שם</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"ניווט למעלה"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"פתיחת חלונית ההזזה לניווט"</string>
+    <string name="network">שם רשת (SSID)</string>
+    <string name="new_templates_unlocked">תבניות חדשות בוטלו</string>
+    <string name="no">לא</string>
+    <string name="no_ads">ללא מודעות</string>
+    <string name="no_connection_found">לא נמצא חיבור</string>
+    <string name="no_history">ההיסטוריה ריקה</string>
+    <string name="offline_notification_text">יש להקיש כדי לפתוח את המודעה</string>
+    <string name="offline_notification_title">צפייה במודעה ששמרת כשלא היה לך חיבור לאינטרנט</string>
+    <string name="offline_opt_in_confirm">אישור</string>
+    <string name="offline_opt_in_confirmation">תישלח לך התראה עם קישור כשיתחדש החיבור לאינטרנט</string>
+    <string name="offline_opt_in_decline">לא תודה</string>
+    <string name="offline_opt_in_message">נשלח לך התראה עם קישור לאתר המפרסם.</string>
+    <string name="offline_opt_in_title">יש לפתוח את המודעה כשיתחדש החיבור לאינטרנט.</string>
+    <string name="okay">בסדר</string>
+    <string name="one_time_purchase">><![CDATA[/רכישה חד פעמית ומבצע לכל החיים]]></string>
+    <string name="only_digits">ספרות בלבד</string>
+    <string name="only_even">מספר הספרות חייב להיות \n מספר זוגי</string>
+    <string name="other">אחר</string>
+    <string name="password">סיסמה</string>
+    <string name="password_toggle_content_description">הצגת סיסמה</string>
+    <string name="permission_not_granted">הרשאה לא ניתנה!</string>
+    <string name="phone_generate">טלפון</string>
+    <string name="phone_number">מספר טלפון</string>
+    <string name="please_try_again_later">אנא נסה שוב מאוחר יותר</string>
+    <string name="premium">Premium</string>
+    <string name="price">מחיר</string>
+    <string name="privacy">מדיניות פרטיות</string>
+    <string name="pro_user">הפוך למשתמש מקצוען</string>
+    <string name="product_code">הזן את קוד המוצר</string>
+    <string name="product_name">שם</string>
+    <string name="product_price">הזן מחיר מוצר</string>
+    <string name="qrCodEMaker">יוצר ברקוד QRCode</string>
+    <string name="rate_me_5">דרג אותי ב-5 כוכבים</string>
+    <string name="rate_menu_maybe_btn">דרג מאוחר יותר</string>
+    <string name="rate_menu_message">האם אתה אוהב את האפליקציה?</string>
+    <string name="rate_menu_no_btn">לא</string>
+    <string name="rate_menu_title">נא לדרג את האפליקציה</string>
+    <string name="rate_menu_yes_btn">כן</string>
+    <string name="rate_stars">דרג אותי \n5 כוכבים</string>
+    <string name="rate_us">דרג אותנו</string>
+    <string name="read">קרא את תמונת קוד ה-QR שמירת כדי לסרוק קוד QR</string>
+    <string name="readHelp">קרא את העזרה של האפליקציה כדי למנוע \nטעויות נפוצות בזמן סריקה</string>
+    <string name="read_storage">1. Read_External_Storage: </string>
+    <string name="recipient">נמען</string>
+    <string name="recipient_email">דוא"ל של נמען</string>
+    <string name="remove_customization">האם אתה בטוח שברצונך לצאת?</string>
+    <string name="restore">Restore</string>
+    <string name="result">תוצאה</string>
+    <string name="resultScan">סריקת תוצאות</string>
+    <string name="result_email">אימייל:</string>
+    <string name="result_event">אירוע:</string>
+    <string name="result_facebook">פייסבוק:</string>
+    <string name="result_geo">מיקום גיאוגרפי:</string>
+    <string name="result_instagram">אינסטגרם:</string>
+    <string name="result_linkdein">Linkdein:</string>
+    <string name="result_phone">טלפון:</string>
+    <string name="result_sms">SMS:</string>
+    <string name="result_text">טקסט:</string>
+    <string name="result_twitter">טוויטר:</string>
+    <string name="result_url">כתובת אתר:</string>
+    <string name="result_vcard">צור קשר:</string>
+    <string name="result_whatsapp">Whatsapp:</string>
+    <string name="result_wifi">Wi-Fi:</string>
+    <string name="result_youtube">YouTube:</string>
+    <string name="s1">שמור את התמונה</string>
+    <string name="s2">האם לאפשר למודעה לאחסן תמונה בגלריית התמונות?</string>
+    <string name="s3">קבל</string>
+    <string name="s4">דחה</string>
+    <string name="s5">צור אירוע ביומן</string>
+    <string name="s6">האם לאפשר למודעה ליצור אירוע ביומן?</string>
+    <string name="s7">מודעת בדיקה</string>
+    <string name="saved_to">נשמר ב:\n</string>
+    <string name="scan">סריקה</string>
+    <string name="scan_img">סרוק תמונה</string>
+    <string name="scanned">נסרק\n בהצלחה</string>
+    <string name="scanned_history">היסטוריה סרוקה</string>
+    <string name="scanned_not_work_txt"> סריקה עם טלפונים בתקציב נמוך יכולה להיות מאוד
+קשה או אפילו בלתי אפשרי בגלל מצלמה נמוכה יותר
+איכות.\n\n
+אם אינך מצליח לסרוק, אנא נסה לצלם תמונה
+עם אפליקציית המצלמה הרגילה שלך.\n\n
+לאחר מכן סרוק את התמונה באמצעות:</string>
+    <string name="scanned_result">תוצאה סרוקה:</string>
+    <string name="scanned_type_barcode">ברקוד:</string>
+    <string name="scanned_type_qrcode">קוד QR:</string>
+    <string name="scanning_does_not_work">הסריקה לא עובדת</string>
+    <string name="scanning_low_budget">סריקה עם טלפונים בתקציב נמוך</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"חיפוש"</string>
+    <string name="security">סוג אבטחה</string>
+    <string name="set_logo_in_center">הגדר לוגו במרכז</string>
+    <string name="settings_auto_links">פתח את כתובת האתר באופן אוטומטי</string>
+    <string name="settings_autofocus">מיקוד אוטומטי</string>
+    <string name="settings_vibrate">רטט</string>
+    <string name="seven_digit_with_checksum">7 ספרות עם ספרת סכום ביקורת אחת</string>
+    <string name="share">התקן את אפליקציית SuperB Scanner מ:</string>
+    <string name="shareImg">שתף</string>
+    <string name="share_app">שתף אפליקציה</string>
+    <string name="skip">דלג</string>
+    <string name="sms_generate">SMS</string>
+    <string name="solid_color">צבע אחיד</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="subject">נושא</string>
+    <string name="supportedBarCode">9+ סוגי ברקוד נתמכים</string>
+    <string name="supportedQR">14+ סוגי קוד QR נתמכים</string>
+    <string name="supported_codes">קודים נתמכים</string>
+    <string name="tapAgain">הקש שוב כדי לצאת!</string>
+    <string name="templates">תבניות</string>
+    <string name="tips_for_scanning">טיפים לסריקה</string>
+    <string name="twelve_digit_with_checksum">12 ספרות עם ספרת ביקורת אחת</string>
+    <string name="twitter_url">הזן את כתובת האתר של Twitter</string>
+    <string name="txt_generate">טקסט</string>
+    <string name="txt_website">אתר</string>
+    <string name="type_here_email">הזן דוא"ל</string>
+    <string name="type_here_memo">תזכיר</string>
+    <string name="type_here_phone">הזן מספר טלפון</string>
+    <string name="type_here_text">הקלד טקסט</string>
+    <string name="type_here_wifi_password">הזן סיסמה</string>
+    <string name="type_here_wifi_ssid">הזן SSID/שם רשת</string>
+    <string name="type_whatsapp">הזן מספר</string>
+    <string name="upgrade">Go Premium</string>
+    <string name="url_generate">כתובת אתר</string>
+    <string name="username">הזן שם משתמש</string>
+    <string name="version">גרסה 1.0.14</string>
+    <string name="vibrate">רטט</string>
+    <string name="vibrate_per">רטט התקן בסריקה</string>
+    <string name="vibrate_permissions">4. רעידות: </string>
+    <string name="watch_ad">מודעת צפייה</string>
+    <string name="watch_ad_txt">צפה בתבניות ביטול נעילה של סרטון</string>
+    <string name="welcome_qr_txt">ברוך הבא \nאל QRcode</string>
+    <string name="wifi">התחבר, התנתק מ-wifi, גישה מלאה לרשת, הצג חיבורי רשת, הצג חיבורי wifi</string>
+    <string name="wifi_generate">Wifi</string>
+    <string name="wifi_password">סיסמת Wifi</string>
+    <string name="wifi_ssid">שם Wifi (SSID)</string>
+    <string name="wifi_state_permission">5. ACCESS_WIFI_STATE: </string>
+    <string name="write">שמור תמונת קוד QR באחסון פנימי</string>
+    <string name="write_storage">2. Write_External_Storage: </string>
+    <string name="yes">כן</string>
+    <string name="zxing_app_name">סורק ברקודים</string>
+    <string name="zxing_button_ok">אישור</string>
+    <string name="zxing_msg_camera_framework_bug">סליחה, מצלמת האנדרואיד נתקלה בבעיה. ייתכן שיהיה עליך להפעיל מחדש את המכשיר.</string>
+    <string name="zxing_msg_default_status">הצב ברקוד בתוך המלבן כדי לסרוק אותו.</string>
+</resources>
