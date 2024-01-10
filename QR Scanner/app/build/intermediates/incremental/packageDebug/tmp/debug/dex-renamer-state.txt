@@ -1,4 +1,4 @@
-#Thu Jan 04 23:04:39 PKT 2024
+#Fri Jan 05 00:15:16 PKT 2024
 base.1=D\:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\dex\\debug\\minifyDebugWithR8\\classes2.dex
 path.1=classes2.dex
 base.0=D\:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\dex\\debug\\minifyDebugWithR8\\classes.dex
