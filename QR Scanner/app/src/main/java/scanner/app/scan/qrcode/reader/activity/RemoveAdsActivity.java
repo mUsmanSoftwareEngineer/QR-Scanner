@@ -19,7 +19,6 @@ import com.android.billingclient.api.BillingResult;
 import com.android.billingclient.api.ProductDetails;
 import com.android.billingclient.api.Purchase;
 import com.android.billingclient.api.QueryProductDetailsParams;
-import com.google.android.gms.ads.admanager.AdManagerInterstitialAd;
 import com.google.common.collect.ImmutableList;
 import com.google.firebase.analytics.FirebaseAnalytics;
 
@@ -162,7 +161,7 @@ public class RemoveAdsActivity extends AppCompatActivity {
 
     public void startActivity() {
         AppPreference.getInstance(RemoveAdsActivity.this).setBoolean(PrefKey.ActivityFirstRun, false);
-        Intent scan = new Intent(RemoveAdsActivity.this, MainActivity.class);
+        Intent scan = new Intent(RemoveAdsActivity.this, DashboardActivity.class);
         scan.putExtra("fragmentVal", 0);
 //        AppPreference.getInstance(RemoveAdsActivity.this).setInteger(PrefKey.FragmentVal, 1);
         scan.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);

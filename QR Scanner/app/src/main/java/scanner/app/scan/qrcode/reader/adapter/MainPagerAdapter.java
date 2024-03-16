@@ -6,10 +6,10 @@ import androidx.fragment.app.FragmentStatePagerAdapter;
 
 import java.util.ArrayList;
 
-import scanner.app.scan.qrcode.reader.fragment.GenerateFragment;
-import scanner.app.scan.qrcode.reader.fragment.HistoryFragment;
-import scanner.app.scan.qrcode.reader.fragment.ScanFragment;
-import scanner.app.scan.qrcode.reader.fragment.SettingsFragment;
+import scanner.app.scan.qrcode.reader.fragment.QRGenerateFragment;
+import scanner.app.scan.qrcode.reader.fragment.QRHistoryFragment;
+import scanner.app.scan.qrcode.reader.fragment.QRScanFragment;
+import scanner.app.scan.qrcode.reader.fragment.QRSettingsFragment;
 
 
 /**
@@ -30,14 +30,14 @@ public class MainPagerAdapter extends FragmentStatePagerAdapter {
         Fragment fragment = null;
 
         if (i == 0) {
-            fragment = new ScanFragment();
+            fragment = new QRScanFragment();
 //            fragment = new ScanningFragment();
         } else if (i == 1) {
-            fragment = new GenerateFragment();
+            fragment = new QRGenerateFragment();
         } else if (i == 2) {
-            fragment = new HistoryFragment();
+            fragment = new QRHistoryFragment();
         } else if (i == 3) {
-            fragment = new SettingsFragment();
+            fragment = new QRSettingsFragment();
         }
 
         return fragment;

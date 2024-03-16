@@ -91,7 +91,7 @@ public class EntryActivity extends AppCompatActivity {
             int valFrag = AppPreference.getInstance(mContext).getInteger(PrefKey.FragmentVal);
 
 
-            Intent startMainActivity = new Intent(EntryActivity.this, MainActivity.class);
+            Intent startMainActivity = new Intent(EntryActivity.this, DashboardActivity.class);
             startMainActivity.putExtra("fragmentVal", valFrag);
             startMainActivity.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
             startActivity(startMainActivity);

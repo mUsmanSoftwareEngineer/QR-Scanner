@@ -99,7 +99,7 @@ public class SlideActivity extends AppCompatActivity {
 
 
                 if (view_pager_slide.getCurrentItem() == 1) {
-                    Intent scan = new Intent(mContext, MainActivity.class);
+                    Intent scan = new Intent(mContext, DashboardActivity.class);
                     scan.putExtra("fragmentVal", 1);
 //                    AppPreference.getInstance(mContext).setBoolean(PrefKey.ActivityFirstRun, false);
 //        AppPreference.getInstance(RemoveAdsActivity.this).setInteger(PrefKey.FragmentVal, 1);
@@ -148,7 +148,7 @@ public class SlideActivity extends AppCompatActivity {
                 if (actLaunch == 2) {
                     finish();
                 } else {
-                    Intent scan = new Intent(mContext, MainActivity.class);
+                    Intent scan = new Intent(mContext, DashboardActivity.class);
                     scan.putExtra("fragmentVal", 0);
                     AppPreference.getInstance(mContext).setBoolean(PrefKey.ActivityFirstRun, false);
 //        AppPreference.getInstance(RemoveAdsActivity.this).setInteger(PrefKey.FragmentVal, 1);

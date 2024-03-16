@@ -77,7 +77,7 @@ public class AfterSplash extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                Intent scan = new Intent(AfterSplash.this, MainActivity.class);
+                Intent scan = new Intent(AfterSplash.this, DashboardActivity.class);
                 scan.putExtra("fragmentVal", 0);
 //                AppPreference.getInstance(mContext).setBoolean(PrefKey.ActivityFirstRun, false);
 //                AppPreference.getInstance(mContext).setInteger(PrefKey.FragmentVal, 0);
@@ -90,7 +90,7 @@ public class AfterSplash extends AppCompatActivity {
         createCard.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent create = new Intent(AfterSplash.this, MainActivity.class);
+                Intent create = new Intent(AfterSplash.this, DashboardActivity.class);
                 create.putExtra("fragmentVal", 1);
 //                AppPreference.getInstance(mContext).setInteger(PrefKey.FragmentVal, 1);
 //                AppPreference.getInstance(mContext).setBoolean(PrefKey.ActivityFirstRun, false);
@@ -103,7 +103,7 @@ public class AfterSplash extends AppCompatActivity {
         historyCard.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent history = new Intent(AfterSplash.this, MainActivity.class);
+                Intent history = new Intent(AfterSplash.this, DashboardActivity.class);
                 history.putExtra("fragmentVal", 2);
 //                AppPreference.getInstance(mContext).setInteger(PrefKey.FragmentVal, 3);
 //                AppPreference.getInstance(mContext).setBoolean(PrefKey.ActivityFirstRun, false);
@@ -115,7 +115,7 @@ public class AfterSplash extends AppCompatActivity {
         templateCard.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent template = new Intent(AfterSplash.this, MainActivity.class);
+                Intent template = new Intent(AfterSplash.this, DashboardActivity.class);
                 template.putExtra("fragmentVal", 3);
 //                AppPreference.getInstance(mContext).setInteger(PrefKey.FragmentVal, 2);
 //                AppPreference.getInstance(mContext).setBoolean(PrefKey.ActivityFirstRun, false);
