@@ -3,21 +3,18 @@ package scanner.app.scan.qrcode.reader.activity
 import android.app.Activity
 import android.content.Context
 import android.os.Bundle
-import android.view.View
-import android.view.WindowManager
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentPagerAdapter
+import androidx.navigation.NavController
 import androidx.navigation.findNavController
+import androidx.navigation.fragment.NavHostFragment
+import androidx.navigation.ui.NavigationUI
 import androidx.navigation.ui.setupWithNavController
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import scanner.app.scan.qrcode.reader.R
 import scanner.app.scan.qrcode.reader.data.constant.Constants
 import scanner.app.scan.qrcode.reader.databinding.DashboardActivityBinding
-import scanner.app.scan.qrcode.reader.fragment.QRGenerateFragment
-import scanner.app.scan.qrcode.reader.fragment.QRHistoryFragment
-import scanner.app.scan.qrcode.reader.fragment.QRScanFragment
-import scanner.app.scan.qrcode.reader.fragment.QRSettingsFragment
 
 class DashboardActivity : AppCompatActivity() {
 
@@ -28,19 +25,57 @@ class DashboardActivity : AppCompatActivity() {
     //View Binding
     private lateinit var dashboardActivityBinding: DashboardActivityBinding
 
+    lateinit var navHostFragment: NavHostFragment
+    lateinit var navController: NavController
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
         dashboardActivityBinding = DashboardActivityBinding.inflate(layoutInflater)
         setContentView(dashboardActivityBinding.root)
 
-        val navController = this.findNavController(R.id.qr_nav_host_fragment)
-        // Find reference to bottom navigation view
-        val navView: BottomNavigationView = findViewById(R.id.navigation_menu)
-        // Hook your navigation controller to bottom navigation view
-        navView.setupWithNavController(navController)
+
+        setupNavGraphWithBottomBar()
+
+
+
     }
 
+    private fun setupNavGraphWithBottomBar() {
+
+        navHostFragment = supportFragmentManager.findFragmentById(R.id.nav_host_fragmnet) as NavHostFragment
+        navController = navHostFragment.navController
+
+        NavigationUI.setupWithNavController(
+            dashboardActivityBinding.navigationMenu,navController
+        )
+
+        dashboardActivityBinding.navigationMenu.setOnNavigationItemSelectedListener {item ->
+            when(item.itemId) {
+                R.id.nav_scan -> {
+
+                    navController.navigate(R.id.QRScanFragment)
+                    true
+                }
+
+                R.id.nav_generate -> {
+                    navController.navigate(R.id.QRGenerateFragment)
+                    true
+                }
+
+                R.id.nav_history -> {
+                    navController.navigate(R.id.QRHistoryFragment)
+                    true
+                }
+
+                R.id.nav_setting -> {
+                    navController.navigate(R.id.QRSettingFragment)
+                    true
+                }
+                else -> false
+            }
+        }
+    }
 
 
     override fun onResume() {

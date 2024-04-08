@@ -1,93 +1,62 @@
-package scanner.app.scan.qrcode.reader.adapter;
+package scanner.app.scan.qrcode.reader.adapter
 
-import android.content.Context;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.ImageView;
-import android.widget.RelativeLayout;
-import android.widget.TextView;
+import android.content.Context
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+import android.widget.ImageView
+import android.widget.RelativeLayout
+import android.widget.TextView
+import androidx.recyclerview.widget.RecyclerView
+import scanner.app.scan.qrcode.reader.R
+import scanner.app.scan.qrcode.reader.adapter.BarcodeAdapter.BarcodeViewHolder
+import scanner.app.scan.qrcode.reader.data.preference.GenerateModel
 
-import androidx.annotation.NonNull;
-import androidx.recyclerview.widget.RecyclerView;
-
-import java.util.List;
-
-import scanner.app.scan.qrcode.reader.R;
-import scanner.app.scan.qrcode.reader.data.preference.GenerateModel;
-
-public class BarcodeAdapter extends RecyclerView.Adapter<BarcodeAdapter.BarcodeViewHolder> {
-
-    Context context;
-    List<GenerateModel> generateModelList;
-
-    private ClickListener clickListener;
-
-
-
-
-    @NonNull
-    @Override
-    public BarcodeViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
-        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.barcode_recycler, parent, false);
-        return new BarcodeViewHolder(view, viewType);
+class BarcodeAdapter(var context: Context, var generateModelList: List<GenerateModel>) :
+    RecyclerView.Adapter<BarcodeViewHolder?>() {
+    private var clickListener: ClickListener? = null
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): BarcodeViewHolder {
+        val view =
+            LayoutInflater.from(parent.context).inflate(R.layout.barcode_recycler, parent, false)
+        return BarcodeViewHolder(view, viewType)
     }
 
-    @Override
-    public void onBindViewHolder(BarcodeViewHolder holder, int position) {
-
-        holder.generateImageView.setImageResource(generateModelList.get(position).getImg_icon());
-        holder.generateTextView.setText(generateModelList.get(position).getCategory_name());
-
-
-
+    override fun onBindViewHolder(holder: BarcodeViewHolder, position: Int) {
+        holder.generateImageView.setImageResource(generateModelList[position].img_icon)
+        holder.generateTextView.text = generateModelList[position].category_name
     }
 
-    public void setClickListener(ClickListener clickListener) {
-        this.clickListener = clickListener;
+    fun setClickListener(clickListener: ClickListener?) {
+        this.clickListener = clickListener
     }
 
-    @Override
-    public int getItemCount() {
-        return generateModelList.size();
+    override fun getItemCount(): Int {
+        return generateModelList.size
     }
 
-    @Override
-    public void onAttachedToRecyclerView(@NonNull RecyclerView recyclerView) {
-        super.onAttachedToRecyclerView(recyclerView);
+    override fun onAttachedToRecyclerView(recyclerView: RecyclerView) {
+        super.onAttachedToRecyclerView(recyclerView)
     }
 
+    inner class BarcodeViewHolder(itemView: View, viewType: Int) :
+        RecyclerView.ViewHolder(itemView) {
+        var generateRelative: RelativeLayout
+        var generateImageView: ImageView
+        var generateTextView: TextView
 
-    public class BarcodeViewHolder extends RecyclerView.ViewHolder{
-
-        RelativeLayout generateRelative;
-        ImageView generateImageView;
-        TextView generateTextView;
-
-        public BarcodeViewHolder(View itemView,int viewType) {
-            super(itemView);
-
-            generateRelative=itemView.findViewById(R.id.anotherRecycler);
-            generateImageView=itemView.findViewById(R.id.generate_txt_img);
-            generateTextView=itemView.findViewById(R.id.generate_text);
-
-            generateRelative.setOnClickListener(v -> {
+        init {
+            generateRelative = itemView.findViewById(R.id.anotherRecycler)
+            generateImageView = itemView.findViewById(R.id.generate_txt_img)
+            generateTextView = itemView.findViewById(R.id.generate_text)
+            generateRelative.setOnClickListener { v: View? ->
                 if (clickListener != null) {
-                    clickListener.onItemClicked(getLayoutPosition());
+                    clickListener!!.onItemClicked(layoutPosition)
                 }
-            });
-
+            }
         }
     }
 
-    public interface ClickListener {
-
-        void onItemClicked(int position);
-
-    }
-
-    public BarcodeAdapter(Context context, List<GenerateModel> generateModelList) {
-        this.context = context;
-        this.generateModelList = generateModelList;
+    interface ClickListener {
+        fun onItemClicked(position: Int)
     }
 }

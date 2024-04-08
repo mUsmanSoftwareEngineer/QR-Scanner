@@ -163,6 +163,8 @@
     <string name="templates">Templates</string>
     <string name="fragmentName">FragmentName</string>
     <string name="createQR">Create QR</string>
+    <string name="createQRCode">Create QR Code</string>
+    <string name="createBarCode">Create Barcode</string>
     <string name="QRTEXT">QR Text</string>
     <string name="QRCat">QR Category</string>
     <string name="recipient">Recipient</string>
