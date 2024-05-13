@@ -9,5 +9,5 @@
 //    }
 //}
 include ':app'
-rootProject.name = "QRScanner&Generator"
+rootProject.name = "QR Code Scanner - Barcode Scanner"
 

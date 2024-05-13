@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="scanner.app.scan.qrcode.reader">
+    package="com.infinity.interactive.scanqr.generateqr">
 
-    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" />
+
+<!--    <uses-permission android:name="com.android.vending.BILLING" />-->
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+    <!-- Required to maintain app compatibility. -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
     <uses-permission
         android:name="android.permission.WRITE_EXTERNAL_STORAGE"
         tools:ignore="ScopedStorage" />
@@ -20,10 +30,10 @@
     <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+<!--    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />-->
 
     <application
-        android:name=".activity.MyApp"
+        android:name="com.infinity.interactive.scanqr.generateqr.activity.MyApp"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="true"
@@ -39,15 +49,15 @@
         tools:targetApi="s">
 
 
+<!--        <activity-->
+<!--            android:name=".activity.RemoveAdsActivity"-->
+<!--            android:exported="false"-->
+<!--            android:screenOrientation="portrait"-->
+<!--            android:windowSoftInputMode="stateHidden"-->
+<!--            tools:ignore="LockedOrientationActivity"-->
+<!--            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />-->
         <activity
-            android:name=".activity.RemoveAdsActivity"
-            android:exported="false"
-            android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateHidden"
-            tools:ignore="LockedOrientationActivity"
-            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
-        <activity
-            android:name=".activity.CustomQRCode"
+            android:name="com.infinity.interactive.scanqr.generateqr.activity.CustomQRCode"
             android:exported="false"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden"
@@ -60,35 +70,35 @@
         <!--            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />-->
 
         <activity
-            android:name=".activity.QRImageActivity"
+            android:name="com.infinity.interactive.scanqr.generateqr.activity.QRImageActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="stateHidden"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".activity.ScanningNotWork"
+            android:name="com.infinity.interactive.scanqr.generateqr.activity.ScanningNotWork"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="stateHidden"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".activity.TipsActivity"
+            android:name="com.infinity.interactive.scanqr.generateqr.activity.TipsActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="stateHidden"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".activity.SupportedCodes"
+            android:name="com.infinity.interactive.scanqr.generateqr.activity.SupportedCodes"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="stateHidden"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".activity.HelpActivity"
+            android:name="com.infinity.interactive.scanqr.generateqr.activity.HelpActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"
@@ -96,49 +106,49 @@
             tools:ignore="LockedOrientationActivity" />
 
         <activity
-            android:name=".activity.CropActivity"
+            android:name="com.infinity.interactive.scanqr.generateqr.activity.CropActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
             android:windowSoftInputMode="stateHidden"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".activity.EditQRCode"
+            android:name="com.infinity.interactive.scanqr.generateqr.activity.SaveQRCode"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="stateHidden"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".activity.AfterSplash"
+            android:name="com.infinity.interactive.scanqr.generateqr.activity.AfterSplash"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="stateHidden"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".activity.QRCodeGeneratorScanner"
+            android:name="com.infinity.interactive.scanqr.generateqr.activity.QRCodeGeneratorScanner"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="stateHidden"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".activity.GenerateActivity"
+            android:name="com.infinity.interactive.scanqr.generateqr.activity.GenerateActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="stateHidden"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".activity.SlideActivity"
+            android:name="com.infinity.interactive.scanqr.generateqr.activity.SlideActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="stateHidden"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".activity.EntryActivity"
+            android:name="com.infinity.interactive.scanqr.generateqr.activity.EntryActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme"
@@ -151,65 +161,65 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".activity.MainActivity"
+            android:name="com.infinity.interactive.scanqr.generateqr.activity.DashboardActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="stateHidden"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".activity.ResultActivity"
+            android:name="com.infinity.interactive.scanqr.generateqr.activity.ResultActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="stateHidden"
             tools:ignore="LockedOrientationActivity" />
 
-        <receiver
-            android:name=".activity.AlarmReceiver"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.media.action.DISPLAY_NOTIFICATION" />
-                <action android:name="android.intent.action.BOOT_COMPLETED" />
-                <action android:name="alarm.running" />
+<!--        <receiver-->
+<!--            android:name=".activity.AlarmReceiver"-->
+<!--            android:exported="true">-->
+<!--            <intent-filter>-->
+<!--                <action android:name="android.media.action.DISPLAY_NOTIFICATION" />-->
+<!--                <action android:name="android.intent.action.BOOT_COMPLETED" />-->
+<!--                <action android:name="alarm.running" />-->
 
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </receiver> <!-- Will not be called unless the application explicitly enables it -->
-        <receiver
-            android:name=".activity.DeviceBootReceiver"
-            android:enabled="false"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.BOOT_COMPLETED" />
-            </intent-filter>
-        </receiver>
+<!--                <category android:name="android.intent.category.DEFAULT" />-->
+<!--            </intent-filter>-->
+<!--        </receiver> &lt;!&ndash; Will not be called unless the application explicitly enables it &ndash;&gt;-->
+<!--        <receiver-->
+<!--            android:name=".activity.DeviceBootReceiver"-->
+<!--            android:enabled="false"-->
+<!--            android:exported="true">-->
+<!--            <intent-filter>-->
+<!--                <action android:name="android.intent.action.BOOT_COMPLETED" />-->
+<!--            </intent-filter>-->
+<!--        </receiver>-->
 
-        <service
-            android:name="scanner.app.scan.qrcode.reader.pushnotification.FireBaseNotification"
-            android:exported="true"
-            tools:ignore="ExportedService">
-            <intent-filter>
-                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-            </intent-filter>
-        </service>
+<!--        <service-->
+<!--            android:name="scanner.app.scan.qrcode.reader.pushnotification.FireBaseNotification"-->
+<!--            android:exported="true"-->
+<!--            tools:ignore="ExportedService">-->
+<!--            <intent-filter>-->
+<!--                <action android:name="com.google.firebase.MESSAGING_EVENT" />-->
+<!--            </intent-filter>-->
+<!--        </service>-->
 
-        <meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="@string/app_ad_id" />
-        <meta-data
-            android:name="com.google.android.gms.ads.flag.OPTIMIZE_INITIALIZATION"
-            android:value="true" />
-        <meta-data
-            android:name="com.google.android.gms.ads.flag.OPTIMIZE_AD_LOADING"
-            android:value="true" />
+<!--        <meta-data-->
+<!--            android:name="com.google.android.gms.ads.APPLICATION_ID"-->
+<!--            android:value="@string/app_ad_id" />-->
+<!--        <meta-data-->
+<!--            android:name="com.google.android.gms.ads.flag.OPTIMIZE_INITIALIZATION"-->
+<!--            android:value="true" />-->
+<!--        <meta-data-->
+<!--            android:name="com.google.android.gms.ads.flag.OPTIMIZE_AD_LOADING"-->
+<!--            android:value="true" />-->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyCWhW2m-jVDIO1za2cJ_BwreUhv30EFBNI" />
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="scanner.app.scan.qrcode.reader.fileprovider"
+            android:authorities="com.infinity.interactive.scanqr.generateqr.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data

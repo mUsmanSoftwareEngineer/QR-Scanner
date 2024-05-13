@@ -1,178 +1,174 @@
 [
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_result.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_result.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_share_and_crop.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\activity_share_and_crop.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_edit_qrcode.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_edit_qrcode.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\save_dialogue.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\save_dialogue.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\rate_dialog.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\rate_dialog.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_permission_dialog.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\app_permission_dialog.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_slide_1.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\item_slide_1.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\barcode_recycler.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\barcode_recycler.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_scan.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\fragment_scan.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_qrcode_generator_scanner.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\activity_qrcode_generator_scanner.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_after_splash.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_after_splash.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_supported_codes.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\activity_supported_codes.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\ad_unified.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\ad_unified.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_slide_2.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\item_slide_2.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_generate.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\fragment_generate.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_generate.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\activity_generate.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_generate.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_generate.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_tips.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\activity_tips.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_slide.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\activity_slide.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_scanning_not_work.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_scanning_not_work.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\gradient_recycler.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\gradient_recycler.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_share_and_crop.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_share_and_crop.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\logo_recycler.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\logo_recycler.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\barcode_recycler.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\barcode_recycler.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\scanned_dialog.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\scanned_dialog.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_settings.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_scanning_not_work.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\activity_scanning_not_work.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\supported_layout.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\supported_layout.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_slide_1.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\item_slide_1.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_supported_codes.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_supported_codes.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\color_recycler.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\color_recycler.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_slide_3.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\item_slide_3.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dashboard_activity.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\dashboard_activity.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\after_splash.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\after_splash.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_edit_qrcode.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\activity_edit_qrcode.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\generate_recycler.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\generate_recycler.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_help.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\activity_help.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bottom_sheet_dialog.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\bottom_sheet_dialog.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_qrimage.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\activity_qrimage.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_history.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\fragment_history.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\rate_dialog.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\rate_dialog.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_qrimage.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_qrimage.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\generate_recycler.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\generate_recycler.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\scanned_dialog.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\scanned_dialog.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_remove_ads.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\activity_remove_ads.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_result.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\content_result.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_after_splash.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\activity_after_splash.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_qrcode_generator_scanner.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_qrcode_generator_scanner.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_history.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\item_history.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\scan_supported.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\scan_supported.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_slide_3.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\item_slide_3.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\color_recycler.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\color_recycler.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\supported_layout.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\supported_layout.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\save_dialogue.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\save_dialogue.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\qr_edit_text_layout.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\qr_edit_text_layout.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_tips.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_tips.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_crop.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\activity_crop.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_custom_qrcode.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_custom_qrcode.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_settings.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\fragment_settings.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_help.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_help.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\eyes_dots_item.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\eyes_dots_item.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\eyes_dots_item.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\eyes_dots_item.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_result.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\activity_result.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_slide.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_slide.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_qrcode_generate.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\activity_qrcode_generate.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_slide_2.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\item_slide_2.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_result.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\content_result.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\gradient_recycler.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\gradient_recycler.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bottom_sheet_dialog.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\bottom_sheet_dialog.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_crop.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_crop.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_generate.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\fragment_generate.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\qr_edit_text_layout.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\qr_edit_text_layout.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_scan.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\fragment_scan.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\logo_recycler.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\logo_recycler.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\scan_supported.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\scan_supported.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\decorations_layout.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\decorations_layout.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\progress_dialogue.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\progress_dialogue.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_qrcode_generate.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_qrcode_generate.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_custom_qrcode.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\activity_custom_qrcode.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_remove_ads.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\activity_remove_ads.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\decorations_layout.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\decorations_layout.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\progress_dialogue.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\progress_dialogue.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_history.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\fragment_history.xml"
     },
     {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_history.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\item_history.xml"
-    },
-    {
-        "merged": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_permission_dialog.xml",
-        "source": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\src\\main\\res\\layout\\app_permission_dialog.xml"
+        "merged": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\after_splash.xml",
+        "source": "D:\\Projects\\QR Scanner\\app\\src\\main\\res\\layout\\after_splash.xml"
     }
 ]

@@ -8,39 +8,6 @@
     android:background="@color/white"
     >
 
-
-
-    <RelativeLayout
-        android:id="@+id/top_relative"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-
-
-        <RelativeLayout
-            android:id="@+id/ads_relative"
-            android:layout_width="match_parent"
-            android:layout_height="50dp"
-            android:visibility="visible">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_centerInParent="true"
-                android:text="@string/adsTxt"
-                android:fontFamily="@font/roboto_regular"
-                android:textColor="@color/tt_black"
-                android:textSize="18sp" />
-
-        </RelativeLayout>
-
-        <FrameLayout
-            android:id="@+id/banner_adsview"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentTop="true" />
-
-    </RelativeLayout>
-
     <RelativeLayout
         android:id="@+id/top"
         android:layout_width="match_parent"
@@ -67,6 +34,21 @@
             android:src="@drawable/back_scanner"
             app:tint="@color/tt_black"
             tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/scanned_result_tile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:fontFamily="@font/roboto_regular"
+            android:layout_toEndOf="@id/backButtonResult"
+            android:textStyle="bold"
+            android:includeFontPadding="false"
+            android:text="@string/scanned_result"
+            android:textColor="@color/tt_black"
+            android:textSize="20sp" />
 
         <TextView
             android:id="@+id/QRCat"
@@ -99,6 +81,7 @@
                 android:layout_centerVertical="true"
                 android:layout_marginEnd="15dp"
                 android:gravity="center_vertical"
+                android:visibility="gone"
                 >
 
                 <ImageView
@@ -135,7 +118,9 @@
                 android:scaleType="centerCrop"
                 android:src="@drawable/info"
                 tools:ignore="ContentDescription"
-                app:tint="@color/tt_black" />
+                app:tint="@color/tt_black"
+                android:visibility="gone"
+                />
 
             <ImageView
                 android:id="@+id/settingsQRCreateResult"

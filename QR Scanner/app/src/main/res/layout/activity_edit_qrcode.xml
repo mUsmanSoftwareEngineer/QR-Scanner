@@ -7,41 +7,9 @@
     android:background="@color/white">
 
 
-    <RelativeLayout
-        android:id="@+id/top_relative"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-
-
-        <RelativeLayout
-            android:id="@+id/ads_relative"
-            android:layout_width="match_parent"
-            android:layout_height="50dp">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_centerInParent="true"
-                android:fontFamily="@font/roboto_regular"
-                android:text="@string/adsTxt"
-                android:textColor="@color/tt_black"
-                android:textSize="18sp" />
-
-        </RelativeLayout>
-
-        <FrameLayout
-            android:id="@+id/banner_adsview"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentTop="true" />
-
-    </RelativeLayout>
-
-
     <androidx.core.widget.NestedScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/top_relative"
         android:overScrollMode="never">
 
 
@@ -53,8 +21,13 @@
             <RelativeLayout
                 android:id="@+id/rel1"
                 android:layout_width="match_parent"
-                android:layout_height="140dp"
-                android:layout_marginTop="10dp">
+                android:layout_height="60dp"
+                android:background="@color/white"
+                android:elevation="4dp"
+                android:paddingStart="0dp"
+                android:paddingTop="5dp"
+                android:paddingEnd="10dp"
+                android:paddingBottom="5dp">
 
                 <ImageView
                     android:id="@+id/back_img"
@@ -68,38 +41,70 @@
                     tools:ignore="ContentDescription" />
 
 
-                <ImageView
-                    android:id="@+id/qr_img"
-                    android:layout_width="140dp"
-                    android:layout_height="140dp"
-                    android:layout_centerInParent="true"
-                    android:background="@drawable/custom_input"
-                    android:padding="10dp"
-                    tools:ignore="ContentDescription" />
-
+                <TextView
+                    android:id="@+id/edit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="25dp"
+                    android:layout_centerVertical="true"
+                    android:layout_toEndOf="@id/back_img"
+                    android:fontFamily="@font/roboto_regular"
+                    android:textStyle="bold"
+                    android:includeFontPadding="false"
+                    android:paddingStart="10dp"
+                    android:paddingEnd="0dp"
+                    android:text="@string/save_qr_code"
+                    android:gravity="center_vertical"
+                    android:textColor="@color/tt_black"
+                    android:textSize="18sp" />
 
                 <ImageView
                     android:layout_width="40dp"
                     android:layout_height="40dp"
                     android:layout_centerInParent="true"
                     android:src="@drawable/ic_baseline_search_24"
+                    android:visibility="gone"
                     app:tint="@color/darkMainColor"
                     tools:ignore="ContentDescription" />
 
+                <ImageView
+                    android:id="@+id/print_qr_code"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentEnd="true"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:layout_marginEnd="5dp"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:visibility="visible"
+                    app:srcCompat="@drawable/save_pdf_icon"
+                    tools:ignore="ContentDescription" />
 
             </RelativeLayout>
+
+
+            <ImageView
+                android:id="@+id/qr_img"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:layout_below="@+id/rel1"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/custom_input"
+                android:padding="10dp"
+                tools:ignore="ContentDescription" />
 
             <androidx.cardview.widget.CardView
                 android:id="@+id/base_cardview"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_below="@+id/rel1"
+                android:layout_below="@+id/qr_img"
                 android:layout_centerHorizontal="true"
                 android:layout_marginStart="25dp"
                 android:layout_marginTop="20dp"
                 android:layout_marginEnd="25dp"
                 app:cardBackgroundColor="@color/whiteLight"
-                app:cardCornerRadius="12dp"
+                app:cardCornerRadius="6dp"
                 app:cardUseCompatPadding="true">
 
                 <LinearLayout
@@ -207,11 +212,11 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:fontFamily="@font/roboto_regular"
-                                    android:textStyle="bold"
                                     android:includeFontPadding="false"
                                     android:text="@string/wifi_ssid"
                                     android:textColor="@color/tt_black"
-                                    android:textSize="16sp" />
+                                    android:textSize="16sp"
+                                    android:textStyle="bold" />
 
                                 <TextView
                                     android:id="@+id/wifiName"
@@ -236,11 +241,11 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:fontFamily="@font/roboto_regular"
-                                    android:textStyle="bold"
                                     android:includeFontPadding="false"
                                     android:text="@string/security"
                                     android:textColor="@color/tt_black"
-                                    android:textSize="16sp" />
+                                    android:textSize="16sp"
+                                    android:textStyle="bold" />
 
                                 <TextView
                                     android:id="@+id/wifiSec"
@@ -270,11 +275,11 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/roboto_regular"
-                                android:textStyle="bold"
                                 android:includeFontPadding="false"
                                 android:text="@string/wifi_password"
                                 android:textColor="@color/tt_black"
-                                android:textSize="16sp" />
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
 
                             <TextView
                                 android:id="@+id/wifiPass"
@@ -528,49 +533,6 @@
                 </RelativeLayout>
 
             </RelativeLayout>
-
-
-            <RelativeLayout
-                android:id="@+id/bannerAdView"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_below="@+id/rel2"
-                android:layout_marginTop="20dp"
-                android:layout_marginBottom="20dp"
-                android:visibility="gone">
-
-                <RelativeLayout
-                    android:id="@+id/banner_ads_relative"
-                    android:layout_width="300dp"
-                    android:layout_height="250dp"
-                    android:layout_centerInParent="true"
-                    android:background="@drawable/stroke_bg"
-                    android:paddingTop="20dp"
-                    android:paddingBottom="20dp">
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_centerHorizontal="true"
-                        android:layout_marginTop="5dp"
-                        android:fontFamily="@font/roboto_regular"
-                        android:gravity="center"
-                        android:text="@string/sponsered_ads"
-                        android:textColor="@color/tt_black"
-                        android:textSize="18sp" />
-
-                </RelativeLayout>
-
-                <FrameLayout
-                    android:id="@+id/bannerAdsFrame"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:background="@color/white" />
-
-
-            </RelativeLayout>
-
-
 
 
         </RelativeLayout>

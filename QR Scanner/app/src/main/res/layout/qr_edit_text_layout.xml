@@ -61,7 +61,9 @@
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="15dp"
                 android:gravity="center_vertical"
-                android:orientation="horizontal">
+                android:orientation="horizontal"
+                android:visibility="gone"
+                >
 
                 <ImageView
                     android:layout_width="24dp"
@@ -95,6 +97,7 @@
                 android:scaleType="centerCrop"
                 android:src="@drawable/info"
                 app:tint="@color/tt_black"
+                android:visibility="gone"
                 tools:ignore="ContentDescription" />
 
             <ImageView

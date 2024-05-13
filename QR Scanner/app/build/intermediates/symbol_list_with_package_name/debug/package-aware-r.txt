@@ -1,4 +1,4 @@
-scanner.app.scan.qrcode.reader
+com.infinity.interactive.scanqr.generateqr
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -120,9 +120,6 @@ attr actionViewClass
 attr activityAction
 attr activityChooserViewStyle
 attr activityName
-attr adSize
-attr adSizes
-attr adUnitId
 attr alertDialogButtonGroupStyle
 attr alertDialogCenterButtons
 attr alertDialogStyle
@@ -1471,10 +1468,6 @@ color bright_foreground_inverse_material_dark
 color bright_foreground_inverse_material_light
 color bright_foreground_material_dark
 color bright_foreground_material_light
-color browser_actions_bg_grey
-color browser_actions_divider_color
-color browser_actions_text_color
-color browser_actions_title_color
 color button_material_dark
 color button_material_light
 color cardBg
@@ -2814,8 +2807,6 @@ dimen abc_text_size_title_material
 dimen abc_text_size_title_material_toolbar
 dimen action_bar_size
 dimen appcompat_dialog_background_inset
-dimen browser_actions_context_menu_max_width
-dimen browser_actions_context_menu_min_padding
 dimen cardview_compat_inset_shadow
 dimen cardview_default_elevation
 dimen cardview_default_radius
@@ -3410,8 +3401,6 @@ drawable abc_vector_test
 drawable ad_bg
 drawable ad_button
 drawable add_image_icon
-drawable admob_close_button_black_circle_white_cross
-drawable admob_close_button_white_circle_black_cross
 drawable amazon_bg
 drawable amazon_icon
 drawable app_icon_splash
@@ -3476,6 +3465,7 @@ drawable copy_scanner
 drawable correct
 drawable correct_2
 drawable country_code_bg
+drawable create_qr
 drawable cross
 drawable crown
 drawable cursor_drawable
@@ -3638,6 +3628,12 @@ drawable permission_dialog
 drawable plus
 drawable privacy_scanner
 drawable qr_code
+drawable qr_fb_social_icon
+drawable qr_history
+drawable qr_instagram_social_icon
+drawable qr_linkedin_social_icon
+drawable qr_twitter_social_icon
+drawable qr_whatsapp_social_icon
 drawable qrcode
 drawable rate_us
 drawable ratingstar_grey
@@ -3648,6 +3644,7 @@ drawable round_ad_attribution
 drawable round_buttons
 drawable round_img_btn
 drawable rounded_buttons_bg
+drawable save_pdf_icon
 drawable scan_scanner
 drawable scanning_issues
 drawable scanning_tips3
@@ -3691,6 +3688,10 @@ id FUNCTION
 id META
 id NO_DEBUG
 id QRCat
+id QRGenerateFragment
+id QRHistoryFragment
+id QRScanFragment
+id QRSettingFragment
 id SHIFT
 id SHOW_ALL
 id SHOW_PATH
@@ -3761,25 +3762,13 @@ id action_mode_close_button
 id action_text
 id actions
 id activity_chooser_view_content
-id adLayout
 id adRelative
-id ad_advertiser
-id ad_app_icon
-id ad_body
-id ad_call_to_action
-id ad_headline
-id ad_media
-id ad_price
-id ad_stars
-id ad_store
 id add
 id add_logo
 id address
 id adjust_height
 id adjust_width
-id adsRemove
 id ads_relative
-id ads_txt
 id alertTitle
 id aligned
 id all
@@ -3812,7 +3801,6 @@ id back_img
 id bannerAdView
 id bannerAdsFrame
 id banner_ads_relative
-id banner_adsview
 id barCodeRelative
 id barImg
 id barcode
@@ -3839,11 +3827,6 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
-id browser_actions_header_text
-id browser_actions_menu_item_icon
-id browser_actions_menu_item_text
-id browser_actions_menu_items
-id browser_actions_menu_view
 id buttonDone
 id buttonPanel
 id cache_measures
@@ -4011,7 +3994,6 @@ id flip
 id floating
 id forever
 id fragmentName
-id fragment_container
 id fragment_container_view_tag
 id free
 id frost
@@ -4076,7 +4058,6 @@ id indicator_arrow
 id indicator_container
 id info
 id infoLayout
-id infoMain
 id infoQRCat
 id infoQRRes
 id inputText
@@ -4197,9 +4178,9 @@ id nav_controller_view_tag
 id nav_generate
 id nav_history
 id nav_host_fragment_container
+id nav_host_fragmnet
 id nav_scan
 id nav_setting
-id navigation
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -4207,6 +4188,7 @@ id navigation_bar_item_labels_group
 id navigation_bar_item_large_label_view
 id navigation_bar_item_small_label_view
 id navigation_header_container
+id navigation_menu
 id never
 id neverCompleteToEnd
 id neverCompleteToStart
@@ -4245,6 +4227,7 @@ id percent
 id pin
 id position
 id postLayout
+id print_qr_code
 id privacy
 id privacy_icon
 id privacy_policy_qr
@@ -4252,6 +4235,7 @@ id progress_circular
 id progress_horizontal
 id qrCard
 id qrImg
+id qr_dashboard_navigation
 id qr_img
 id qr_layout
 id qr_style
@@ -4349,7 +4333,6 @@ id select_dialog_listview
 id selected
 id selection_type
 id serif
-id settingsMain
 id settingsQRCreateResult
 id settings_after_splash
 id shareCode
@@ -4498,6 +4481,7 @@ id unlabeled
 id up
 id useLogo
 id userNameText
+id versions_app
 id vertical_only
 id view_offset_helper
 id view_pager_slide
@@ -4526,6 +4510,7 @@ id wrap_content_constrained
 id x_left
 id x_right
 id zero_corner_chip
+id zoomLayout
 id zxing_back_button
 id zxing_barcode_scanner
 id zxing_barcode_surface
@@ -4641,7 +4626,6 @@ layout activity_custom_qrcode
 layout activity_edit_qrcode
 layout activity_generate
 layout activity_help
-layout activity_main
 layout activity_qrcode_generate
 layout activity_qrcode_generator_scanner
 layout activity_qrimage
@@ -4652,16 +4636,14 @@ layout activity_share_and_crop
 layout activity_slide
 layout activity_supported_codes
 layout activity_tips
-layout ad_unified
 layout after_splash
 layout app_permission_dialog
 layout barcode_recycler
 layout bottom_sheet_dialog
-layout browser_actions_context_menu_page
-layout browser_actions_context_menu_row
 layout color_recycler
 layout content_result
 layout custom_dialog
+layout dashboard_activity
 layout decorations_layout
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -4780,14 +4762,14 @@ layout text_view_without_line_height
 layout worm_dot_layout
 layout zxing_barcode_scanner
 layout zxing_capture
-menu bottom_navigation
+menu bottom_navigation_menu
 mipmap app_icon
 mipmap app_icon_foreground
 mipmap app_icon_round
+navigation qr_dashboard_navigation
 plurals mtrl_badge_content_description
 raw firebase_common_keep
 raw zxing_beep
-string InterstitialOn
 string QRCat
 string QRCode
 string QRImg
@@ -4828,19 +4810,14 @@ string adsTxt
 string agree_txt
 string allowCameraUse
 string androidx_startup
-string app_ad_id
 string app_name
 string app_name_print
-string app_open_id
-string app_open_id_2
-string app_open_id_3
 string app_permission
+string app_settings
 string app_version
 string appbar_scrolling_view_behavior
 string apply_gradients
 string background
-string banner_ad_home_main_sticky_unit_id
-string banner_ad_inline_unit_id
 string barcode
 string basic
 string beginTime
@@ -4890,9 +4867,10 @@ string contact_generate
 string contacts_permissions
 string content
 string copied
-string copy_toast_msg
 string create
+string createBarCode
 string createQR
+string createQRCode
 string created_history
 string creating_in_a_moment
 string crop
@@ -4900,7 +4878,6 @@ string cropShare
 string custom_qr_code
 string date
 string dd_mm_yyyy
-string default_web_client_id
 string define_zxingandroidembedded
 string delete_message_all
 string delete_message_item
@@ -4928,11 +4905,7 @@ string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string facebook
 string facebook_url
-string fallback_menu_item_copy_link
-string fallback_menu_item_open_in_browser
-string fallback_menu_item_share_link
 string fancyQR
-string fcm_fallback_notification_channel_label
 string feed
 string follow_scan_tips
 string fragmentName
@@ -5055,7 +5028,6 @@ string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
 string mtrl_timepicker_confirm
 string name
-string native_ad_unit_id
 string nav_app_bar_navigate_up_description
 string nav_app_bar_open_drawer_description
 string network
@@ -5066,13 +5038,6 @@ string no_connection_found
 string no_history
 string no_nthanks
 string none
-string offline_notification_text
-string offline_notification_title
-string offline_opt_in_confirm
-string offline_opt_in_confirmation
-string offline_opt_in_decline
-string offline_opt_in_message
-string offline_opt_in_title
 string ok
 string okay
 string one_time
@@ -5094,6 +5059,7 @@ string phone_generate
 string phone_number
 string please_try_again_later
 string png
+string pp_link
 string premium
 string price
 string privacy
@@ -5138,16 +5104,9 @@ string result_vcard
 string result_whatsapp
 string result_wifi
 string result_youtube
-string rewarded
-string s1
-string s2
-string s3
-string s4
-string s5
-string s6
-string s7
 string save_one
 string save_qr_as
+string save_qr_code
 string saved_to
 string scan
 string scan_img
@@ -5769,7 +5728,6 @@ style Theme_Design_Light
 style Theme_Design_Light_BottomSheetDialog
 style Theme_Design_Light_NoActionBar
 style Theme_Design_NoActionBar
-style Theme_IAPTheme
 style Theme_Material3_Dark
 style Theme_Material3_Dark_BottomSheetDialog
 style Theme_Material3_Dark_Dialog
@@ -6301,7 +6259,6 @@ styleable ActivityChooserView expandActivityOverflowButtonDrawable initialActivi
 styleable ActivityFilter activityAction activityName
 styleable ActivityNavigator android_name action data dataPattern targetPackage
 styleable ActivityRule alwaysExpand
-styleable AdsAttrs adSize adSizes adUnitId
 styleable AlertDialog android_layout buttonIconDimen buttonPanelSideLayout listItemLayout listLayout multiChoiceItemLayout showTitle singleChoiceItemLayout
 styleable AnimatedStateListDrawableCompat android_dither android_visible android_variablePadding android_constantSize android_enterFadeDuration android_exitFadeDuration
 styleable AnimatedStateListDrawableItem android_id android_drawable
@@ -6483,7 +6440,6 @@ styleable zxing_finder zxing_possible_result_points zxing_result_view zxing_view
 styleable zxing_view zxing_scanner_layout
 xml data_extraction_rules
 xml file_paths
-xml image_share_filepaths
 xml standalone_badge
 xml standalone_badge_gravity_bottom_end
 xml standalone_badge_gravity_bottom_start
