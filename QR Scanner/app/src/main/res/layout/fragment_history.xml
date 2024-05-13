@@ -12,7 +12,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-
         android:orientation="horizontal">
 
         <TextView
@@ -25,7 +24,6 @@
             android:layout_marginBottom="10dp"
             android:layout_marginEnd="15dp"
             android:paddingTop="15dp"
-            android:elevation="4dp"
             android:paddingBottom="15dp"
             android:paddingLeft="20dp"
             android:paddingRight="20dp"
@@ -41,7 +39,6 @@
             android:layout_height="wrap_content"
             android:background="@drawable/history_btn_color"
             android:gravity="center"
-            android:elevation="4dp"
             android:layout_marginTop="20dp"
             android:layout_marginBottom="10dp"
             android:layout_marginStart="15dp"
@@ -59,16 +56,11 @@
 
     <ImageView
         android:id="@+id/line"
-        android:visibility="gone"
         android:layout_width="match_parent"
         android:layout_height="3dp"
         android:layout_below="@+id/Top_btns"
-        android:layout_alignParentStart="true"
-        android:layout_marginLeft="6dp"
-        android:layout_marginRight="6dp"
         android:background="#727272"
-        android:layout_marginStart="6dp"
-        android:layout_marginEnd="6dp"
+        android:layout_marginTop="10dp"
         tools:ignore="ContentDescription" />
 
     <androidx.recyclerview.widget.RecyclerView
@@ -78,13 +70,12 @@
         android:layout_below="@+id/line"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="10dp"
-        android:layout_marginTop="15dp"
         android:nestedScrollingEnabled="false"
-        android:paddingStart="20dp"
-        android:paddingLeft="20dp"
-        android:paddingEnd="20dp"
-        android:paddingRight="20dp" />
+        android:layout_marginBottom="20dp"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:overScrollMode="never"
+       />
 
     <TextView
         android:id="@+id/noResultView"
@@ -103,12 +94,9 @@
         android:layout_height="45dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="@dimen/fab_margin_16"
-        android:layout_marginTop="@dimen/fab_margin_16"
-        android:layout_marginEnd="@dimen/fab_margin_16"
-        android:layout_marginBottom="@dimen/fab_margin_16"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="70dp"
         android:background="@drawable/delete_all"
-        android:elevation="5dp"
         android:padding="9dp"
         android:scaleType="fitXY"
         android:src="@drawable/bin"

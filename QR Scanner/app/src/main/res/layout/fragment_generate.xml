@@ -36,7 +36,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="5dp"
-                android:layout_marginTop="10dp"
+                android:layout_marginTop="20dp"
                 android:fontFamily="@font/roboto_regular"
                 android:text="@string/createQRCode"
                 android:textColor="@color/tt_black"
@@ -48,7 +48,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/createQR"
-                android:layout_marginTop="5dp" />
+                android:layout_marginTop="20dp"
+                android:overScrollMode="never"
+                />
 
             <TextView
                 android:id="@+id/barcode"
@@ -56,7 +58,7 @@
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/generate_recycler"
                 android:layout_marginStart="5dp"
-                android:layout_marginTop="10dp"
+                android:layout_marginTop="20dp"
                 android:fontFamily="@font/roboto_regular"
                 android:text="@string/createBarCode"
                 android:textColor="@color/tt_black"
@@ -68,7 +70,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/barcode"
-                android:layout_marginTop="7dp" />
+                android:layout_marginTop="20dp"
+                android:overScrollMode="never"
+                />
 
         </RelativeLayout>
 

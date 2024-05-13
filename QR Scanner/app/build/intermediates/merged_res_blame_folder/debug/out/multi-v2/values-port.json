@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "outputFile": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Muhammad Usman\\.gradle\\caches\\transforms-3\\cbba7c17162d8e2c45729c599845d415\\transformed\\appcompat-1.4.1\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\muhammadus\\.gradle\\caches\\transforms-3\\cbba7c17162d8e2c45729c599845d415\\transformed\\appcompat-1.4.1\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

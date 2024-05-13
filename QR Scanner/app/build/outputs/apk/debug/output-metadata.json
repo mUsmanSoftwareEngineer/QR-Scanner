@@ -4,15 +4,15 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "scanner.app.scan.qrcode.reader",
+  "applicationId": "com.infinity.interactive.scanqr.generateqr",
   "variantName": "debug",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
-      "versionCode": 5,
-      "versionName": "1.0.4",
-      "outputFile": "app-debug.apk"
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "outputFile": "QR_Code_Scanner_VN_1.0.0_VC_1_ Time_ 11-29 21-04-debug.apk"
     }
   ]
 }

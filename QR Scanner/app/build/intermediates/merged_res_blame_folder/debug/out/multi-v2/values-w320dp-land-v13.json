@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Main Apps Repo\\Updated Codes\\QR Scanner\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
+            "outputFile": "D:\\Projects\\QR Scanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Muhammad Usman\\.gradle\\caches\\transforms-3\\f2c1d9a0c635109a3aa690ffb5d443ac\\transformed\\material-1.6.1\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
+                    "source": "C:\\Users\\muhammadus\\.gradle\\caches\\transforms-3\\f2c1d9a0c635109a3aa690ffb5d443ac\\transformed\\material-1.6.1\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

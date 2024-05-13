@@ -9,20 +9,23 @@ plugins {
 
 android {
 
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
-        applicationId "scanner.app.scan.qrcode.reader"
+        applicationId "com.infinity.interactive.scanqr.generateqr"
         minSdk 24
-        targetSdk 32
-        versionCode 5
-        versionName "1.0.4"
-
-
+        targetSdk 33
+        versionCode 1
+        versionName "1.0.0"
 
         multiDexEnabled true
-
         android.defaultConfig.vectorDrawables.useSupportLibrary = true
+
+        def date = new Date();
+        def newName = date.format('hh-mm dd-MM')
+
+        setProperty("archivesBaseName", "QR_Code_Scanner" + "_VN_" +
+                versionName + "_VC_" +versionCode+"_ Time_ "+newName)
 
     }
 
@@ -99,7 +102,7 @@ dependencies {
 
     //Firebase Dependencies
     implementation platform('com.google.firebase:firebase-bom:31.2.2')
-    implementation 'com.google.firebase:firebase-messaging'
+//    implementation 'com.google.firebase:firebase-messaging'
     implementation 'com.google.firebase:firebase-analytics'
 //    implementation 'com.google.firebase:firebase-crashlytics'
 
@@ -114,14 +117,14 @@ dependencies {
     implementation "androidx.multidex:multidex:2.0.1"
 
     //Billing Library
-    def billing_version = "5.0.0"
-    implementation "com.android.billingclient:billing:$billing_version"
-    implementation 'com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava'
-    implementation 'com.google.guava:guava:24.1-jre'
+//    def billing_version = "5.0.0"
+//    implementation "com.android.billingclient:billing:$billing_version"
+//    implementation 'com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava'
+//    implementation 'com.google.guava:guava:24.1-jre'
 
 
     //Ads
-    implementation 'com.google.android.gms:play-services-ads:21.2.0'
+//    implementation 'com.google.android.gms:play-services-ads:21.2.0'
 
 
     //Start Screens Dots

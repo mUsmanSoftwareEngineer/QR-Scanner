@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/QRScanFragment"
-        android:name="scanner.app.scan.qrcode.reader.fragment.QRScanFragment"
+        android:name="com.infinity.interactive.scanqr.generateqr.fragment.QRScanFragment"
         android:label="fragment_qr_scan"
         tools:layout="@layout/fragment_scan">
 
@@ -15,7 +15,7 @@
 
     <fragment
         android:id="@+id/QRGenerateFragment"
-        android:name="scanner.app.scan.qrcode.reader.fragment.QRGenerateFragment"
+        android:name="com.infinity.interactive.scanqr.generateqr.fragment.QRGenerateFragment"
         android:label="fragment_qr_generate"
         tools:layout="@layout/fragment_generate">
 
@@ -23,7 +23,7 @@
 
     <fragment
         android:id="@+id/QRHistoryFragment"
-        android:name="scanner.app.scan.qrcode.reader.fragment.QRHistoryFragment"
+        android:name="com.infinity.interactive.scanqr.generateqr.fragment.QRHistoryFragment"
         android:label="fragment_qr_history"
         tools:layout="@layout/fragment_history">
 
@@ -31,7 +31,7 @@
 
     <fragment
         android:id="@+id/QRSettingFragment"
-        android:name="scanner.app.scan.qrcode.reader.fragment.QRSettingsFragment"
+        android:name="com.infinity.interactive.scanqr.generateqr.fragment.QRSettingsFragment"
         android:label="fragment_qr_setting"
         tools:layout="@layout/fragment_settings">
 

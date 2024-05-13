@@ -2,7 +2,7 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:color="@color/tt_black"
+        android:color="@color/textColorHint"
         android:state_checked="false"
         />
     <item

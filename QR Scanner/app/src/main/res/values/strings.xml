@@ -30,31 +30,31 @@
 
 
     <!--     app ad test section -->
-    <string name="app_ad_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+<!--    <string name="app_ad_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>-->
 
-    <!-- App Open key -->
-    <string name="app_open_id" translatable="false">ca-app-pub-3940256099942544/3419835294</string>
-    <string name="app_open_id_2" translatable="false">ca-app-pub-3940256099942544/3419835294</string>
-    <string name="app_open_id_3" translatable="false">ca-app-pub-3940256099942544/3419835294</string>
+<!--    &lt;!&ndash; App Open key &ndash;&gt;-->
+<!--    <string name="app_open_id" translatable="false">ca-app-pub-3940256099942544/3419835294</string>-->
+<!--    <string name="app_open_id_2" translatable="false">ca-app-pub-3940256099942544/3419835294</string>-->
+<!--    <string name="app_open_id_3" translatable="false">ca-app-pub-3940256099942544/3419835294</string>-->
 
-    <!-- Banner Keys keys -->
-    <string name="banner_ad_home_main_sticky_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="banner_ad_inline_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+<!--    &lt;!&ndash; Banner Keys keys &ndash;&gt;-->
+<!--    <string name="banner_ad_home_main_sticky_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="banner_ad_inline_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>-->
 
-    <!-- Interstitial keys -->
-    <string name="InterstitialOn">ca-app-pub-3940256099942544/1033173712</string>
+<!--    &lt;!&ndash; Interstitial keys &ndash;&gt;-->
+<!--    <string name="InterstitialOn">ca-app-pub-3940256099942544/1033173712</string>-->
 
-    <!-- Native keys -->
-    <string name="native_ad_unit_id">ca-app-pub-3940256099942544/2247696110</string>
+<!--    &lt;!&ndash; Native keys &ndash;&gt;-->
+<!--    <string name="native_ad_unit_id">ca-app-pub-3940256099942544/2247696110</string>-->
 
-    <!-- Rewarded keys -->
-    <string name="rewarded">ca-app-pub-3940256099942544/5224354917</string>
+<!--    &lt;!&ndash; Rewarded keys &ndash;&gt;-->
+<!--    <string name="rewarded">ca-app-pub-3940256099942544/5224354917</string>-->
 
     <!--     end of the ad section -->
 
 
     <!-- TODO Change app name and splash text from here -->
-    <string name="app_name">QR Code Reader</string>
+    <string name="app_name">QR Code Scanner</string>
 
     <string name="menu_scan">Scan</string>
     <string name="menu_generate">Create QR Code</string>
@@ -92,21 +92,21 @@
     <string name="action">Action</string>
     <string name="date">Date</string>
 
-    <string name="result_text">Text:</string>
-    <string name="result_url">URL:</string>
-    <string name="result_youtube">YouTube:</string>
-    <string name="result_phone">Phone:</string>
-    <string name="result_email">Email:</string>
-    <string name="result_wifi">Wi-Fi:</string>
-    <string name="result_sms">SMS:</string>
-    <string name="result_vcard">Contact:</string>
-    <string name="result_geo">Geolocation:</string>
-    <string name="result_event">Event:</string>
-    <string name="result_facebook">Facebook:</string>
-    <string name="result_twitter">Twitter:</string>
-    <string name="result_instagram">Instagram:</string>
-    <string name="result_linkdein">Linkdein:</string>
-    <string name="result_whatsapp">Whatsapp:</string>
+    <string name="result_text">Text</string>
+    <string name="result_url">URL</string>
+    <string name="result_youtube">YouTube</string>
+    <string name="result_phone">Phone</string>
+    <string name="result_email">Email</string>
+    <string name="result_wifi">Wi-Fi</string>
+    <string name="result_sms">SMS</string>
+    <string name="result_vcard">Contact</string>
+    <string name="result_geo">Geolocation</string>
+    <string name="result_event">Event</string>
+    <string name="result_facebook">Facebook</string>
+    <string name="result_twitter">Twitter</string>
+    <string name="result_instagram">Instagram</string>
+    <string name="result_linkdein">Linkdein</string>
+    <string name="result_whatsapp">Whatsapp</string>
 
     <string name="delete_message_item">Are you sure you want to delete this item?</string>
     <string name="delete_message_all">Are you sure you want to clear the list?</string>
@@ -121,7 +121,8 @@
     <string name="settings_autofocus">Autofocus</string>
     <string name="settings_vibrate">Vibrate</string>
     <string name="settings_auto_links">Open URL automatically</string>
-    <string name="general">General</string>
+    <string name="general">General Settings</string>
+    <string name="app_settings">App Settings</string>
     <string name="other">Other</string>
     <string name="rate_us">Rate us</string>
     <string name="share_app">Share app</string>
@@ -129,24 +130,24 @@
     <!--    <integer name="viewfinder_border_width">4</integer>-->
     <!--    <integer name="viewfinder_border_length">60</integer>-->
 
-    <string name="version">Version 1.0.14</string>
+    <string name="version">Version 1.0.0</string>
     <string name="privacy">Privacy Policy</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="app_permission">App Permissions</string>
     <string name="read_storage">1. Read_External_Storage:  </string>
-    <string name="read">Read the save QR code image to scan QR Code</string>
+    <string name="read">Read access is required to retrieve saved QR code images for scanning purposes.</string>
     <string name="write_storage">2. Write_External_Storage: </string>
-    <string name="write">Save QR code image into Internal Storage</string>
+    <string name="write">Write access is necessary to save generated QR code images into the device\'s internal storage.</string>
     <string name="vibrate_permissions">4. Vibrations: </string>
-    <string name="vibrate_per">Vibrate Device on scanning</string>
+    <string name="vibrate_per">Permission to vibrate the device upon successful QR code scanning.</string>
     <string name="camera_permission">3. CAMERA: </string>
-    <string name="camera">Scan QR code</string>
+    <string name="camera">Access to the device\'s camera is essential for scanning QR codes</string>
     <string name="wifi_state_permission">5. ACCESS_WIFI_STATE: </string>
-    <string name="wifi">Connect,disconnect from wifi, full network access, view network connections, view wifi connections</string>
+    <string name="wifi">Access is needed to manage Wi-Fi connections, including connecting, disconnecting, and viewing network information.</string>
     <string name="contacts_permissions">6. Contacts: </string>
-    <string name="contact">Get contacts to create QR code with contacts type</string>
+    <string name="contact">Access to contacts is required for creating QR codes containing contact information.</string>
     <string name="account_permissions">7. Account:  </string>
-    <string name="account">Get account to create QR code with email</string>
+    <string name="account">Permission to access user accounts is necessary for generating QR codes with email addresses.</string>
     <string name="got_it">Got it!</string>
     <string name="rate_me_5">Rate this app 5 stars</string>
     <string name="generate_from_source">Generate From Data Source</string>
@@ -176,6 +177,7 @@
     <string name="address">Address</string>
     <string name="type_here_memo">Memo</string>
     <string name="edit">Edit</string>
+    <string name="save_qr_code">Save QR Code</string>
     <string name="color">Color</string>
     <string name="logo">Logo</string>
     <string name="background">Background</string>
@@ -338,4 +340,6 @@ Then scan the image using:</string>
     <string name="hh_mm">HH:mm</string>
     <string name="upgrade_to_pro">Upgrade to Pro</string>
     <string name="us_country_code">+1</string>
+
+    <string name="pp_link">https://sites.google.com/view/qrcodescannerbarcodescanner</string>
 </resources>
